@@ -1,0 +1,473 @@
+"""
+scrape_aus_polls.py
+-------------------
+Scrapes the first (2026) polling table from the Wikipedia page:
+  "Opinion polling for the next Australian federal election"
+
+Outputs a long-format CSV where each row is either:
+  - a primary vote datapoint  -> pv_party / pv_prop filled; 2pp cols empty
+  - a 2PP datapoint           -> 2pp cols filled; pv cols empty
+
+Usage:
+    python scrape_aus_polls.py
+    python scrape_aus_polls.py --output my_file.csv
+    python scrape_aus_polls.py --html local_page.html   # use saved HTML
+"""
+
+import re
+import csv
+import sys
+import argparse
+from bs4 import BeautifulSoup
+
+
+try:
+    import requests
+except ImportError:
+    sys.exit("Please install dependencies:  pip install requests beautifulsoup4 lxml")
+
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+
+URL = (
+    "https://en.wikipedia.org/wiki/"
+    "Opinion_polling_for_the_next_Australian_federal_election"
+)
+
+# Maps the last (leaf) header text -> our canonical party code
+HEADER_TO_PARTY = {
+    "alp":   "ALP",
+    "lib":   "LIB",
+    "lnp":   "LNP",
+    "nat":   "NAT",
+    "grn":   "GRN",
+    "onp":   "ONP",
+    "ind":   "IND",
+    "oth":   "OTH",
+    "l/np":  "L/NP",
+}
+
+OUTPUT_FIELDS = [
+    "Date", "Polling firm", "Client", "Interview mode", "Sample size",
+    "pv_party", "pv_prop",
+    "2pp_party_1", "2pp_party_1_prop",
+    "2pp_party_2", "2pp_party_2_prop",
+]
+
+# ---------------------------------------------------------------------------
+# Fetch
+# ---------------------------------------------------------------------------
+
+def fetch_html(url):
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; AusPollScraper/2.0)"}
+    resp = requests.get(url, headers=headers, timeout=30)
+    resp.raise_for_status()
+    return resp.text
+
+
+# ---------------------------------------------------------------------------
+# Header grid builder
+# ---------------------------------------------------------------------------
+
+def build_header_grid(header_rows):
+    """
+    Flatten a multi-row table header into a 2-D grid dict: (row, col) -> text.
+    Respects both colspan and rowspan.
+    Returns (grid, num_header_rows, num_cols).
+    """
+    grid = {}
+    for ri, tr in enumerate(header_rows):
+        ci = 0
+        for cell in tr.find_all(["th", "td"]):
+            while (ri, ci) in grid:
+                ci += 1
+            text = cell.get_text(" ", strip=True)
+            cs = int(cell.get("colspan", 1))
+            rs = int(cell.get("rowspan", 1))
+            for r in range(rs):
+                for c in range(cs):
+                    grid[(ri + r, ci + c)] = text
+            ci += cs
+
+    if not grid:
+        return grid, 0, 0
+    num_rows = max(k[0] for k in grid) + 1
+    num_cols = max(k[1] for k in grid) + 1
+    return grid, num_rows, num_cols
+
+
+def column_label_chain(grid, num_rows, col):
+    """All distinct non-empty header texts from top to bottom for one column."""
+    chain, seen = [], set()
+    for r in range(num_rows):
+        v = grid.get((r, col), "").strip()
+        if v and v not in seen:
+            chain.append(v)
+            seen.add(v)
+    return chain
+
+
+def classify_columns(grid, num_rows, num_cols):
+    """
+    Returns three dicts:
+      fixed_cols : { "Date": idx, "Polling firm": idx, ... }
+      pv_cols    : { "ALP": idx, "LIB": idx, ... }
+      tpp_cols   : { "ALP": idx, "L/NP": idx, ... }
+
+    The distinction between a PV and 2PP column for parties that appear in
+    both sections (e.g. ALP) is resolved by checking whether "Primary" or
+    "2PP" / "2pp" appears in the column's ancestor chain of headers.
+    When neither section label is present, position order breaks the tie
+    (first occurrence = PV, second = 2PP).
+    """
+    FIXED_KEYWORDS = {
+        "date":         "Date",
+        "polling firm": "Polling firm",
+        "client":       "Client",
+        "interview":    "Interview mode",
+        "sample":       "Sample size",
+    }
+
+    fixed_cols, pv_cols, tpp_cols = {}, {}, {}
+
+    for ci in range(num_cols):
+        chain = column_label_chain(grid, num_rows, ci)
+        chain_lower = [c.lower() for c in chain]
+
+        # --- Fixed metadata columns ---
+        matched = False
+        for kw, name in FIXED_KEYWORDS.items():
+            if any(kw in lbl for lbl in chain_lower):
+                fixed_cols[name] = ci
+                matched = True
+                break
+        if matched:
+            continue
+
+        # --- Determine section (primary vs 2pp) ---
+        in_primary = any("primary" in lbl for lbl in chain_lower)
+        in_tpp     = any("2pp" in lbl for lbl in chain_lower)
+
+        # The party code is the leaf (last) element of the chain
+        leaf = chain[-1].strip() if chain else ""
+        party_code = HEADER_TO_PARTY.get(leaf.lower())
+        if party_code is None:
+            continue
+
+        if in_tpp and not in_primary:
+            tpp_cols[party_code] = ci
+        elif in_primary and not in_tpp:
+            pv_cols[party_code] = ci
+        else:
+            # Unlabelled or spans both: first occurrence = PV, next = 2PP
+            if party_code not in pv_cols:
+                pv_cols[party_code] = ci
+            elif party_code not in tpp_cols:
+                tpp_cols[party_code] = ci
+
+    return fixed_cols, pv_cols, tpp_cols
+
+
+# ---------------------------------------------------------------------------
+# Row-span tracker
+# ---------------------------------------------------------------------------
+
+class RowSpanTracker:
+    """Carries cell values across <tr> boundaries when rowspan > 1."""
+
+    def __init__(self, num_cols):
+        self.num_cols = num_cols
+        self._carry = {}  # col_idx -> (remaining_rows, text)
+
+    def expand(self, tr):
+        """
+        Expand a <tr> into a flat list of cell texts (length = num_cols).
+        Carried-over values are placed first; the row's own cells fill gaps.
+        """
+        result = [None] * self.num_cols
+
+        # Place carry-overs from previous rows
+        for ci, (remaining, text) in list(self._carry.items()):
+            result[ci] = text
+            if remaining <= 1:
+                del self._carry[ci]
+            else:
+                self._carry[ci] = (remaining - 1, text)
+
+        # Place this row's cells
+        ci = 0
+        for cell in tr.find_all(["td", "th"]):
+            while ci < self.num_cols and result[ci] is not None:
+                ci += 1
+            if ci >= self.num_cols:
+                break
+            text = cell.get_text(" ", strip=True)
+            cs = int(cell.get("colspan", 1))
+            rs = int(cell.get("rowspan", 1))
+            for c in range(cs):
+                if ci + c < self.num_cols:
+                    result[ci + c] = text
+                    if rs > 1:
+                        self._carry[ci + c] = (rs - 1, text)
+            ci += cs
+
+        return [v if v is not None else "" for v in result]
+
+
+# ---------------------------------------------------------------------------
+# Value helpers
+# ---------------------------------------------------------------------------
+
+_NULL_RE = re.compile(
+    r"^[\u2014\u2013\-]+$"          # bare dash
+    r"|^[\u2014\u2013\-]+\s*[Nn]/[Aa]$"  # —N/a
+    r"|^[Nn]/[Aa]$",
+)
+
+
+def is_null(text):
+    return not text.strip() or bool(_NULL_RE.match(text.strip()))
+
+
+def parse_pct(text):
+    """Return float (percentage value) or None."""
+    t = text.strip()
+    if is_null(t):
+        return None
+    t = re.sub(r"\[.*?\]", "", t).strip()   # strip footnote markers
+    t = t.rstrip("%").strip()
+    try:
+        return float(t)
+    except ValueError:
+        return None
+
+
+def clean_text(text):
+    t = text.strip()
+    if is_null(t):
+        return ""
+    return re.sub(r"\[.*?\]", "", t).strip()
+
+
+# ---------------------------------------------------------------------------
+# Event-row detection
+# ---------------------------------------------------------------------------
+
+_EVENT_RE = re.compile(
+    r"election|coalition|budget|dissolved|by-election|"
+    r"canavan|taylor|ley|joyce|strait|hormuz|replac|elected|joins|"
+    r"liberal.national|nat.*party",
+    re.I,
+)
+
+
+def is_event_row(tr, num_cols):
+    """True if the row is an annotation/event rather than a poll row."""
+    cells = tr.find_all(["td", "th"])
+    if not cells:
+        return True
+    # Single wide cell
+    if len(cells) == 1 and int(cells[0].get("colspan", 1)) >= num_cols - 2:
+        return True
+    # Few cells and event-keyword text
+    if len(cells) <= 3 and _EVENT_RE.search(tr.get_text()):
+        return True
+    return False
+
+
+# ---------------------------------------------------------------------------
+# Core parser
+# ---------------------------------------------------------------------------
+
+def parse_first_2026_table(html):
+    """
+    Locate the first wikitable after the '2026' heading and parse every
+    poll row into long-format records.
+    Returns a list of dicts with keys matching OUTPUT_FIELDS.
+    """
+    soup = BeautifulSoup(html, "lxml")
+
+    # 1. Find the 2026 heading
+    heading = None
+    for tag in soup.find_all(re.compile(r"^h[2-4]$")):
+        if re.search(r"\b2026\b", tag.get_text()):
+            heading = tag
+            break
+    if heading is None:
+        raise RuntimeError("Could not find a '2026' section heading on the page.")
+
+    # 2. Find the first wikitable after that heading
+    table = None
+    for sib in heading.find_next_siblings():
+        if sib.name and re.match(r"^h[2-4]$", sib.name):
+            break
+        if sib.name == "table" and "wikitable" in sib.get("class", []):
+            table = sib
+            break
+    if table is None:
+        raise RuntimeError("No wikitable found after the 2026 heading.")
+
+    all_rows = table.find_all("tr")
+
+    # 3. Separate header rows (th-only) from data rows
+    header_rows, data_rows = [], []
+    passed_header = False
+    for tr in all_rows:
+        has_th = bool(tr.find("th"))
+        has_td = bool(tr.find("td"))
+        if not passed_header:
+            if has_th and not has_td:
+                header_rows.append(tr)
+            else:
+                passed_header = True
+                if has_td:
+                    data_rows.append(tr)
+        else:
+            if has_td or has_th:
+                data_rows.append(tr)
+
+    if not header_rows:
+        raise RuntimeError("Could not identify header rows in the 2026 table.")
+
+    # 4. Build column map
+    grid, n_hrows, num_cols = build_header_grid(header_rows)
+    fixed_cols, pv_cols, tpp_cols = classify_columns(grid, n_hrows, num_cols)
+
+    print(f"  Header rows   : {n_hrows}")
+    print(f"  Columns total : {num_cols}")
+    print(f"  Fixed cols    : {fixed_cols}")
+    print(f"  PV cols       : {pv_cols}")
+    print(f"  2PP cols      : {tpp_cols}")
+
+    if not pv_cols and not tpp_cols:
+        raise RuntimeError(
+            "No party columns detected. The table header may have changed — "
+            "check HEADER_TO_PARTY mapping."
+        )
+
+    # 5. Parse data rows
+    tracker = RowSpanTracker(num_cols)
+    records = []
+
+    for tr in data_rows:
+        if is_event_row(tr, num_cols):
+            tracker.expand(tr)   # consume rowspan carry-overs even for event rows
+            continue
+
+        cells = tracker.expand(tr)
+
+        def get(col_name):
+            idx = fixed_cols.get(col_name)
+            return clean_text(cells[idx]) if (idx is not None and idx < len(cells)) else ""
+
+        date   = get("Date")
+        firm   = get("Polling firm")
+        client = get("Client")
+        mode   = get("Interview mode")
+        size   = get("Sample size")
+
+        # Skip sub-header rows that slipped through
+        if date.lower() in ("date", "") and not firm:
+            continue
+        if re.search(r"\belection\b", date, re.I):
+            continue
+
+        base = {
+            "Date": date, "Polling firm": firm, "Client": client,
+            "Interview mode": mode, "Sample size": size,
+        }
+
+        # ── Primary vote rows ──
+        for party, ci in sorted(pv_cols.items(), key=lambda x: x[1]):
+            if ci >= len(cells):
+                continue
+            val = parse_pct(cells[ci])
+            if val is None:
+                continue
+            records.append({
+                **base,
+                "pv_party": party, "pv_prop": val,
+                "2pp_party_1": "", "2pp_party_1_prop": "",
+                "2pp_party_2": "", "2pp_party_2_prop": "",
+            })
+
+        # ── 2PP rows ──
+        # Gather all 2PP values present in this row, in column order
+        tpp_present = [
+            (party, parse_pct(cells[ci]))
+            for party, ci in sorted(tpp_cols.items(), key=lambda x: x[1])
+            if ci < len(cells) and parse_pct(cells[ci]) is not None
+        ]
+
+        # Pair parties whose values sum to ~100 (± 1.5 for rounding)
+        used = set()
+        for i in range(len(tpp_present)):
+            if i in used:
+                continue
+            for j in range(i + 1, len(tpp_present)):
+                if j in used:
+                    continue
+                p1, v1 = tpp_present[i]
+                p2, v2 = tpp_present[j]
+                if abs(v1 + v2 - 100) <= 1.5:
+                    records.append({
+                        **base,
+                        "pv_party": "", "pv_prop": "",
+                        "2pp_party_1": p1, "2pp_party_1_prop": v1,
+                        "2pp_party_2": p2, "2pp_party_2_prop": v2,
+                    })
+                    used.add(i)
+                    used.add(j)
+                    break
+
+    return records
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Scrape Australian federal election polling table to long-format CSV."
+    )
+    parser.add_argument("--url",    default=URL,
+                        help="Wikipedia URL (default: standard poll page)")
+    parser.add_argument("--html",   default=None,
+                        help="Path to a locally saved HTML file (skips fetching)")
+    parser.add_argument("--output", default="aus_polls_2026_long.csv",
+                        help="Output CSV path (default: aus_polls_2026_long.csv)")
+    args = parser.parse_args()
+
+    if args.html:
+        print(f"Loading HTML from: {args.html}")
+        with open(args.html, encoding="utf-8") as f:
+            html = f.read()
+    else:
+        print(f"Fetching: {args.url}")
+        html = fetch_html(args.url)
+
+    print("Parsing 2026 table...")
+    records = parse_first_2026_table(html)
+
+    pv_count  = sum(1 for r in records if r["pv_party"])
+    tpp_count = sum(1 for r in records if r["2pp_party_1"])
+    polls     = len({(r["Date"], r["Polling firm"]) for r in records})
+
+    print(f"\nResults:")
+    print(f"  Unique polls : {polls}")
+    print(f"  PV rows      : {pv_count}")
+    print(f"  2PP rows     : {tpp_count}")
+    print(f"  Total rows   : {len(records)}")
+
+    with open(args.output, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=OUTPUT_FIELDS)
+        writer.writeheader()
+        writer.writerows(records)
+
+    print(f"\nCSV written -> {args.output}")
+
+
+if __name__ == "__main__":
+    main()
