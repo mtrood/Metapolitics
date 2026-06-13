@@ -2,7 +2,7 @@ name: scrape-only
 
 on:
   schedule:
-    - cron: '0 2 * * 1'    # weekly
+  #  - cron: '0 2 * * 1'    # weekly, cut currently commented out 
   workflow_dispatch:      # allows manual run
 
 jobs:
