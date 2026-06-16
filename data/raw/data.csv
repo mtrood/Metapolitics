@@ -1,4 +1,19 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",ALP,28.0,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",LIB,15.0,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",NAT,2.0,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",GRN,14.0,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",ONP,29.5,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",IND,11.5,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",OTH,11.5,NA,NA,NA,NA
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,54.5,L/NP,45.5
+2026,8-14 June,8/6/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,53.0,ONP,47.0
+2026,8-13 June,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",L/NP,20.0,NA,NA,NA,NA
+2026,8-13 June,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",ALP,28.0,NA,NA,NA,NA
+2026,8-13 June,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",GRN,12.0,NA,NA,NA,NA
+2026,8-13 June,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",ONP,29.0,NA,NA,NA,NA
+2026,8-13 June,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",IND,7.0,NA,NA,NA,NA
+2026,8-13 June,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",OTH,5.0,NA,NA,NA,NA
 2026,1-7 June,1/6/2026,Roy Morgan,NA,Online,"1,631",ALP,26.0,NA,NA,NA,NA
 2026,1-7 June,1/6/2026,Roy Morgan,NA,Online,"1,631",LIB,14.5,NA,NA,NA,NA
 2026,1-7 June,1/6/2026,Roy Morgan,NA,Online,"1,631",NAT,3.0,NA,NA,NA,NA
@@ -602,13 +617,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,8-14 Dec,8/12/2025,Roy Morgan,NA,Online,"1,574",IND,12.0,NA,NA,NA,NA
 2025,8-14 Dec,8/12/2025,Roy Morgan,NA,Online,"1,574",OTH,12.0,NA,NA,NA,NA
 2025,8-14 Dec,8/12/2025,Roy Morgan,NA,Online,"1,574",NA,NA,ALP,54.5,L/NP,45.5
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",ALP,35.0,NA,NA,NA,NA
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",L/NP,26.0,NA,NA,NA,NA
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",GRN,13.0,NA,NA,NA,NA
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",ONP,17.0,NA,NA,NA,NA
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",IND,9.0,NA,NA,NA,NA
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",OTH,9.0,NA,NA,NA,NA
-2025,5-12 Dec,5/12/2025,Redbridge,Australian Financial Review,Online,"1,012",NA,NA,ALP,56.0,L/NP,44.0
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",ALP,35.0,NA,NA,NA,NA
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",L/NP,26.0,NA,NA,NA,NA
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",GRN,13.0,NA,NA,NA,NA
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",ONP,17.0,NA,NA,NA,NA
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",IND,9.0,NA,NA,NA,NA
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",OTH,9.0,NA,NA,NA,NA
+2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",NA,NA,ALP,56.0,L/NP,44.0
 2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",ALP,34.0,NA,NA,NA,NA
 2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",L/NP,26.0,NA,NA,NA,NA
 2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",GRN,10.0,NA,NA,NA,NA
@@ -629,13 +644,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,26 Nov - 2 Dec,26/11/2025,YouGov,Sky News Australia,Online,"1,605",ONP,19.0,NA,NA,NA,NA
 2025,26 Nov - 2 Dec,26/11/2025,YouGov,Sky News Australia,Online,"1,605",IND,6.0,NA,NA,NA,NA
 2025,26 Nov - 2 Dec,26/11/2025,YouGov,Sky News Australia,Online,"1,605",OTH,6.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",ALP,35.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",L/NP,26.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",GRN,10.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",ONP,18.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",IND,11.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",OTH,11.0,NA,NA,NA,NA
-2025,7-26 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"4,775",NA,NA,ALP,54.0,L/NP,46.0
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",ALP,35.0,NA,NA,NA,NA
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",L/NP,26.0,NA,NA,NA,NA
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",GRN,10.0,NA,NA,NA,NA
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",ONP,18.0,NA,NA,NA,NA
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",IND,11.0,NA,NA,NA,NA
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",OTH,11.0,NA,NA,NA,NA
+2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",NA,NA,ALP,54.0,L/NP,46.0
 2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",ALP,36.0,NA,NA,NA,NA
 2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",L/NP,27.0,NA,NA,NA,NA
 2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",GRN,11.0,NA,NA,NA,NA
@@ -670,13 +685,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,20 Oct - 16 Nov,20/10/2025,Roy Morgan,NA,Online,"5,248",IND,13.5,NA,NA,NA,NA
 2025,20 Oct - 16 Nov,20/10/2025,Roy Morgan,NA,Online,"5,248",OTH,13.5,NA,NA,NA,NA
 2025,20 Oct - 16 Nov,20/10/2025,Roy Morgan,NA,Online,"5,248",NA,NA,ALP,56.5,L/NP,43.5
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",ALP,38.0,NA,NA,NA,NA
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",L/NP,24.0,NA,NA,NA,NA
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",GRN,9.0,NA,NA,NA,NA
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",ONP,18.0,NA,NA,NA,NA
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",IND,11.0,NA,NA,NA,NA
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",OTH,11.0,NA,NA,NA,NA
-2025,7-13 Nov,7/11/2025,Redbridge,Australian Financial Review,Online,"1,011",NA,NA,ALP,56.0,L/NP,44.0
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",ALP,38.0,NA,NA,NA,NA
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",L/NP,24.0,NA,NA,NA,NA
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",GRN,9.0,NA,NA,NA,NA
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",ONP,18.0,NA,NA,NA,NA
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",IND,11.0,NA,NA,NA,NA
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",OTH,11.0,NA,NA,NA,NA
+2025,7-13 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"1,011",NA,NA,ALP,56.0,L/NP,44.0
 2025,5 Oct - 11 Nov,5/10/2025,DemosAU (MRP),NA,Online,"6,928",ALP,33.0,NA,NA,NA,NA
 2025,5 Oct - 11 Nov,5/10/2025,DemosAU (MRP),NA,Online,"6,928",L/NP,24.0,NA,NA,NA,NA
 2025,5 Oct - 11 Nov,5/10/2025,DemosAU (MRP),NA,Online,"6,928",GRN,13.0,NA,NA,NA,NA
@@ -698,13 +713,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,27-30 Oct,27/10/2025,Newspoll,The Australian,Online,"1,265",IND,14.0,NA,NA,NA,NA
 2025,27-30 Oct,27/10/2025,Newspoll,The Australian,Online,"1,265",OTH,14.0,NA,NA,NA,NA
 2025,27-30 Oct,27/10/2025,Newspoll,The Australian,Online,"1,265",NA,NA,ALP,57.0,L/NP,43.0
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",ALP,33.0,NA,NA,NA,NA
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",L/NP,27.0,NA,NA,NA,NA
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",GRN,12.0,NA,NA,NA,NA
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",ONP,13.0,NA,NA,NA,NA
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",IND,7.0,NA,NA,NA,NA
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",OTH,8.0,NA,NA,NA,NA
-2025,23-30 Oct,23/10/2025,YouGov,The Australian Insitute,Online,"4,578",NA,NA,ALP,56.0,L/NP,44.0
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",ALP,33.0,NA,NA,NA,NA
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",L/NP,27.0,NA,NA,NA,NA
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",GRN,12.0,NA,NA,NA,NA
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",ONP,13.0,NA,NA,NA,NA
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",IND,7.0,NA,NA,NA,NA
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",OTH,8.0,NA,NA,NA,NA
+2025,23-30 Oct,23/10/2025,YouGov,The Australian Institute,Online,"4,578",NA,NA,ALP,56.0,L/NP,44.0
 2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",ALP,36.0,NA,NA,NA,NA
 2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",L/NP,26.0,NA,NA,NA,NA
 2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",GRN,9.0,NA,NA,NA,NA
@@ -733,13 +748,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,7-12 Oct,7/10/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",IND,9.0,NA,NA,NA,NA
 2025,7-12 Oct,7/10/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",OTH,7.0,NA,NA,NA,NA
 2025,7-12 Oct,7/10/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NA,NA,ALP,55.0,L/NP,45.0
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",ALP,34.0,NA,NA,NA,NA
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",L/NP,29.0,NA,NA,NA,NA
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",GRN,11.0,NA,NA,NA,NA
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",ONP,14.0,NA,NA,NA,NA
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",IND,12.0,NA,NA,NA,NA
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",OTH,12.0,NA,NA,NA,NA
-2025,25 Sep - 7 Oct,25/9/2025,Redbridge,Australian Finacnial Review,Online,"1,997",NA,NA,ALP,54.0,L/NP,46.0
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",ALP,34.0,NA,NA,NA,NA
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",L/NP,29.0,NA,NA,NA,NA
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",GRN,11.0,NA,NA,NA,NA
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",ONP,14.0,NA,NA,NA,NA
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",IND,12.0,NA,NA,NA,NA
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",OTH,12.0,NA,NA,NA,NA
+2025,25 Sep - 7 Oct,25/9/2025,RedBridge/Accent,Australian Financial Review,Online,"1,997",NA,NA,ALP,54.0,L/NP,46.0
 2025,29 Sep - 2 Oct,29/9/2025,Newspoll,The Australian,Online,"1,264",ALP,37.0,NA,NA,NA,NA
 2025,29 Sep - 2 Oct,29/9/2025,Newspoll,The Australian,Online,"1,264",L/NP,28.0,NA,NA,NA,NA
 2025,29 Sep - 2 Oct,29/9/2025,Newspoll,The Australian,Online,"1,264",GRN,12.0,NA,NA,NA,NA
@@ -782,13 +797,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,8-11 Sep,8/9/2025,Newspoll,The Australian,Online,"1,283",IND,14.0,NA,NA,NA,NA
 2025,8-11 Sep,8/9/2025,Newspoll,The Australian,Online,"1,283",OTH,14.0,NA,NA,NA,NA
 2025,8-11 Sep,8/9/2025,Newspoll,The Australian,Online,"1,283",NA,NA,ALP,58.0,L/NP,42.0
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",ALP,35.0,NA,NA,NA,NA
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",L/NP,30.0,NA,NA,NA,NA
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",GRN,11.0,NA,NA,NA,NA
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",ONP,11.0,NA,NA,NA,NA
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",IND,13.0,NA,NA,NA,NA
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",OTH,13.0,NA,NA,NA,NA
-2025,19 Aug - 8 Sep,19/8/2025,Redbridge,Australian Financial Review,Online,"5,326",NA,NA,ALP,53.5,L/NP,46.5
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",ALP,35.0,NA,NA,NA,NA
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",L/NP,30.0,NA,NA,NA,NA
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",GRN,11.0,NA,NA,NA,NA
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",ONP,11.0,NA,NA,NA,NA
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",IND,13.0,NA,NA,NA,NA
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",OTH,13.0,NA,NA,NA,NA
+2025,19 Aug - 8 Sep,19/8/2025,RedBridge/Accent,Australian Financial Review,Online,"5,326",NA,NA,ALP,53.5,L/NP,46.5
 2025,28 Jul - 24 Aug,28/7/2025,Roy Morgan,NA,Online,"5,001",ALP,34.0,NA,NA,NA,NA
 2025,28 Jul - 24 Aug,28/7/2025,Roy Morgan,NA,Online,"5,001",L/NP,30.0,NA,NA,NA,NA
 2025,28 Jul - 24 Aug,28/7/2025,Roy Morgan,NA,Online,"5,001",GRN,12.0,NA,NA,NA,NA
@@ -848,13 +863,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,27 Jun - 1 Jul,27/6/2025,Spectre Strategy,NA,Online,"1,001",IND,12.3,NA,NA,NA,NA
 2025,27 Jun - 1 Jul,27/6/2025,Spectre Strategy,NA,Online,"1,001",OTH,12.3,NA,NA,NA,NA
 2025,27 Jun - 1 Jul,27/6/2025,Spectre Strategy,NA,Online,"1,001",NA,NA,ALP,56.5,L/NP,43.5
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",ALP,37.0,NA,NA,NA,NA
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",L/NP,31.0,NA,NA,NA,NA
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",GRN,11.0,NA,NA,NA,NA
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",ONP,9.0,NA,NA,NA,NA
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",IND,12.0,NA,NA,NA,NA
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",OTH,12.0,NA,NA,NA,NA
-2025,19-30 Jun,19/6/2025,Redbridge,Australian Financial Review,Online,"4,036",NA,NA,ALP,55.5,L/NP,44.5
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",ALP,37.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",L/NP,31.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",GRN,11.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",ONP,9.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",IND,12.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",OTH,12.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Australian Financial Review,Online,"4,036",NA,NA,ALP,55.5,L/NP,44.5
 2025,23-29 Jun,23/6/2025,Roy Morgan,NA,Online,"1,522",ALP,36.5,NA,NA,NA,NA
 2025,23-29 Jun,23/6/2025,Roy Morgan,NA,Online,"1,522",L/NP,30.5,NA,NA,NA,NA
 2025,23-29 Jun,23/6/2025,Roy Morgan,NA,Online,"1,522",GRN,12.0,NA,NA,NA,NA
