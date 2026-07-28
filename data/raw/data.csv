@@ -1,4 +1,50 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",L/NP,22.0,NA,NA,NA,NA
+2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",ALP,31.0,NA,NA,NA,NA
+2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",GRN,12.0,NA,NA,NA,NA
+2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",ONP,25.0,NA,NA,NA,NA
+2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",IND,10.0,NA,NA,NA,NA
+2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",OTH,10.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",L/NP,22.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",ALP,28.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",GRN,13.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",ONP,25.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",IND,6.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",OTH,6.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",ALP,27.5,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",LIB,18.5,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NAT,3.5,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",GRN,14.0,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",ONP,25.5,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",IND,11.0,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",OTH,11.0,NA,NA,NA,NA
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NA,NA,ALP,54.0,L/NP,46.0
+2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NA,NA,ALP,53.5,ONP,46.5
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",L/NP,23.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",ALP,28.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",GRN,12.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",ONP,26.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",IND,11.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",OTH,11.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",NA,NA,ALP,51.0,L/NP,49.0
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",NA,NA,ALP,54.0,ONP,46.0
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",ALP,27.5,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",LIB,20.5,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",NAT,2.5,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",GRN,14.0,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",ONP,22.5,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",IND,13.0,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",OTH,13.0,NA,NA,NA,NA
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",NA,NA,ALP,56.0,L/NP,44.0
+2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",NA,NA,ALP,55.0,ONP,45.0
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",L/NP,19.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",ALP,30.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",GRN,12.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",ONP,30.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",IND,9.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",OTH,9.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,20.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",ALP,28.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",GRN,12.0,NA,NA,NA,NA
@@ -394,15 +440,15 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",ONP,26.0,NA,NA,NA,NA
 2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",IND,10.0,NA,NA,NA,NA
 2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",OTH,10.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",L/NP,23.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",ALP,30.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",GRN,13.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",ONP,23.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",IND,11.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",OTH,11.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",NA,NA,ALP,51.0,L/NP,49.0
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",NA,NA,ALP,56.0,ONP,44.0
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,810",NA,NA,L/NP,60.0,ONP,40.0
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",L/NP,23.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",ALP,30.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",GRN,13.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",ONP,23.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",IND,11.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",OTH,11.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NA,NA,ALP,51.0,L/NP,49.0
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NA,NA,ALP,56.0,ONP,44.0
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NA,NA,L/NP,60.0,ONP,40.0
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,19.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,29.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
