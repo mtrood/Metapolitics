@@ -1,10 +1,33 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
-2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",L/NP,22.0,NA,NA,NA,NA
-2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",ALP,31.0,NA,NA,NA,NA
-2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",GRN,12.0,NA,NA,NA,NA
-2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",ONP,25.0,NA,NA,NA,NA
-2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",IND,10.0,NA,NA,NA,NA
-2026,22-27 July,22/7/2026,Essential,The Guardian,Online,"1,060",OTH,10.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",L/NP,18.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",ALP,29.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",GRN,14.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",ONP,29.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",IND,10.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",OTH,10.0,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",ALP,27.5,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",LIB,20.0,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",NAT,3.5,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",GRN,15.0,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",ONP,24.0,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",IND,10.0,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",OTH,10.0,NA,NA,NA,NA
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",NA,NA,ALP,52.0,L/NP,48.0
+2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",NA,NA,ALP,54.0,ONP,46.0
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",L/NP,19.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",ALP,32.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",GRN,12.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",ONP,26.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",IND,8.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",OTH,4.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",L/NP,22.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",ALP,29.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",GRN,10.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",ONP,31.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",IND,8.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",OTH,8.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",NA,NA,ALP,48.0,L/NP,52.0
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",NA,NA,ALP,53.0,ONP,47.0
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",L/NP,22.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",ALP,28.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",GRN,13.0,NA,NA,NA,NA
@@ -13,6 +36,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",L/NP,22.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",ALP,31.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",GRN,12.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",ONP,25.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",IND,10.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",OTH,10.0,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",ALP,27.5,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",LIB,18.5,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NAT,3.5,NA,NA,NA,NA
