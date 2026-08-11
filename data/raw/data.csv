@@ -1,4 +1,13 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",ALP,25.5,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",LIB,18.5,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",NAT,3.5,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",GRN,15.5,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",ONP,26.0,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",IND,11.0,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",OTH,11.0,NA,NA,NA,NA
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",NA,NA,ALP,53.0,L/NP,47.0
+2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",NA,NA,ALP,53.0,ONP,47.0
 2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",L/NP,18.0,NA,NA,NA,NA
 2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",ALP,29.0,NA,NA,NA,NA
 2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",GRN,14.0,NA,NA,NA,NA
