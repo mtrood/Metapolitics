@@ -15,7 +15,7 @@ library(DescTools)
 library(scales)
 
 # 1) Data ----------------------------------------------------------------------
-df_raw<-read.csv('data/raw/data.csv.csv')
+df_raw<-read.csv('data/raw/data.csv')
 names(df_raw) <- sub('^X', '', names(df_raw))
 
 df_clean <- df_raw %>%
