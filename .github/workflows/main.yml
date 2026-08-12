@@ -12,9 +12,6 @@ jobs:
 
     steps:
 
-      # --------------------
-      # Get repository
-      # --------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -35,43 +32,17 @@ jobs:
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
 
-      # --------------------
-      # Cache R packages
-      # --------------------
-      - name: Cache R packages
-        uses: actions/cache@v4
-        with:
-          path: ~/R/x86_64-pc-linux-gnu-library/4.3
-          key: ${{ runner.os }}-r-packages-${{ hashFiles('scripts/pooled pv.R') }}
-          restore-keys: |
-            ${{ runner.os }}-r-packages-
-
-      # --------------------
-      # Install R packages
-      # --------------------
       - name: Install R packages
-        shell: Rscript {0}
         run: |
-          install.packages(
-            c("tidyverse", "metafor", "DescTools", "scales"),
-            repos = "https://cloud.r-project.org"
-          )
+          Rscript -e "install.packages(c('tidyverse', 'metafor', 'DescTools', 'scales'), repos='https://cloud.r-project.org')"
 
-      # --------------------
-      # Check R packages
-      # --------------------
       - name: Check R packages
-        shell: Rscript {0}
         run: |
-          library(tidyverse)
-          library(metafor)
-          library(DescTools)
-          library(scales)
-          print("All required R packages loaded successfully")
+          Rscript -e "library(tidyverse)"
+          Rscript -e "library(metafor)"
+          Rscript -e "library(DescTools)"
+          Rscript -e "library(scales)"
 
-      # --------------------
-      # Run R analysis
-      # --------------------
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
 
