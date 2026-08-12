@@ -1,8 +1,6 @@
 name: Scrape and analyse
 
 on:
-  # schedule:
-     - cron: '0 2 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -39,7 +37,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("tidyverse","metafor","DescTools", "scales"), repos="https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("tidyverse", "metafor", "DescTools", "scales"), repos="https://cloud.r-project.org")'
 
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
