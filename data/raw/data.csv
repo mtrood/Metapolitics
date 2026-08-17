@@ -1,4 +1,10 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",L/NP,23.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ALP,28.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",GRN,12.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ONP,26.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",IND,7.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",OTH,4.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",L/NP,22.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",ALP,28.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",GRN,12.0,NA,NA,NA,NA
@@ -440,14 +446,14 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",OTH,10.0,NA,NA,NA,NA
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",NA,NA,ALP,51.0,L/NP,49.0
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",NA,NA,ALP,52.0,ONP,48.0
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,20.0,NA,NA,NA,NA
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,30.0,NA,NA,NA,NA
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",ONP,25.0,NA,NA,NA,NA
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",OTH,7.0,NA,NA,NA,NA
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,L/NP,45.0
-2026,31 Mar-7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,ONP,45.0
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,20.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,30.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",ONP,25.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",OTH,7.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,L/NP,45.0
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,ONP,45.0
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",ALP,30.5,NA,NA,NA,NA
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",LIB,20.0,NA,NA,NA,NA
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",NAT,4.0,NA,NA,NA,NA
@@ -503,12 +509,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,54.0,L/NP,46.0
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,53.0,ONP,47.0
-2026,18-23 Mar,18/3/2026,Essential,The Guardian,Online,"1,008",L/NP,24.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,The Guardian,Online,"1,008",ALP,31.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,The Guardian,Online,"1,008",GRN,10.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,The Guardian,Online,"1,008",ONP,24.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,The Guardian,Online,"1,008",IND,12.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,The Guardian,Online,"1,008",OTH,12.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",L/NP,24.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",ALP,31.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",GRN,10.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",ONP,24.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",IND,12.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",OTH,12.0,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",ALP,27.0,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",LIB,21.5,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",NAT,4.0,NA,NA,NA,NA
@@ -814,13 +820,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",IND,9.0,NA,NA,NA,NA
 2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",OTH,9.0,NA,NA,NA,NA
 2025,5-12 Dec,5/12/2025,RedBridge/Accent,Australian Financial Review,Online,"1,012",NA,NA,ALP,56.0,L/NP,44.0
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",ALP,34.0,NA,NA,NA,NA
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",L/NP,26.0,NA,NA,NA,NA
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",GRN,10.0,NA,NA,NA,NA
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",ONP,17.0,NA,NA,NA,NA
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",IND,12.0,NA,NA,NA,NA
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",OTH,12.0,NA,NA,NA,NA
-2025,3-8 Dec,3/12/2025,Essential,The Guardian,Online,"1,300",NA,NA,ALP,52.1,L/NP,47.9
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",ALP,34.0,NA,NA,NA,NA
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",L/NP,26.0,NA,NA,NA,NA
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",GRN,10.0,NA,NA,NA,NA
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",ONP,17.0,NA,NA,NA,NA
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",IND,12.0,NA,NA,NA,NA
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",OTH,12.0,NA,NA,NA,NA
+2025,3-8 Dec,3/12/2025,Essential,NA,Online,"1,300",NA,NA,ALP,52.1,L/NP,47.9
 2025,2-7 Dec,2/12/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ALP,35.0,NA,NA,NA,NA
 2025,2-7 Dec,2/12/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",L/NP,26.0,NA,NA,NA,NA
 2025,2-7 Dec,2/12/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",GRN,11.0,NA,NA,NA,NA
@@ -841,13 +847,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",IND,11.0,NA,NA,NA,NA
 2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",OTH,11.0,NA,NA,NA,NA
 2025,7-26 Nov,7/11/2025,RedBridge/Accent,Australian Financial Review,Online,"4,775",NA,NA,ALP,54.0,L/NP,46.0
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",ALP,36.0,NA,NA,NA,NA
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",L/NP,27.0,NA,NA,NA,NA
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",GRN,11.0,NA,NA,NA,NA
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",ONP,15.0,NA,NA,NA,NA
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",IND,13.0,NA,NA,NA,NA
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",OTH,13.0,NA,NA,NA,NA
-2025,19-24 Nov,19/11/2025,Essential,The Guardian,Online,"1,020",NA,NA,ALP,53.2,L/NP,46.8
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",ALP,36.0,NA,NA,NA,NA
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",L/NP,27.0,NA,NA,NA,NA
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",GRN,11.0,NA,NA,NA,NA
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",ONP,15.0,NA,NA,NA,NA
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",IND,13.0,NA,NA,NA,NA
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",OTH,13.0,NA,NA,NA,NA
+2025,19-24 Nov,19/11/2025,Essential,NA,Online,"1,020",NA,NA,ALP,53.2,L/NP,46.8
 2025,17-20 Nov,17/11/2025,Newspoll,The Australian,Online,"1,245",ALP,36.0,NA,NA,NA,NA
 2025,17-20 Nov,17/11/2025,Newspoll,The Australian,Online,"1,245",L/NP,24.0,NA,NA,NA,NA
 2025,17-20 Nov,17/11/2025,Newspoll,The Australian,Online,"1,245",GRN,13.0,NA,NA,NA,NA
@@ -910,13 +916,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,23-30 Oct,23/10/2025,YouGov,The Australia Institute,Online,"4,578",IND,7.0,NA,NA,NA,NA
 2025,23-30 Oct,23/10/2025,YouGov,The Australia Institute,Online,"4,578",OTH,8.0,NA,NA,NA,NA
 2025,23-30 Oct,23/10/2025,YouGov,The Australia Institute,Online,"4,578",NA,NA,ALP,56.0,L/NP,44.0
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",ALP,36.0,NA,NA,NA,NA
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",L/NP,26.0,NA,NA,NA,NA
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",GRN,9.0,NA,NA,NA,NA
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",ONP,15.0,NA,NA,NA,NA
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",IND,14.0,NA,NA,NA,NA
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",OTH,14.0,NA,NA,NA,NA
-2025,22-27 Oct,22/10/2025,Essential,The Guardian,Online,"1,041",NA,NA,ALP,53.2,L/NP,46.8
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",ALP,36.0,NA,NA,NA,NA
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",L/NP,26.0,NA,NA,NA,NA
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",GRN,9.0,NA,NA,NA,NA
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",ONP,15.0,NA,NA,NA,NA
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",IND,14.0,NA,NA,NA,NA
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",OTH,14.0,NA,NA,NA,NA
+2025,22-27 Oct,22/10/2025,Essential,NA,Online,"1,041",NA,NA,ALP,53.2,L/NP,46.8
 2025,15-20 Oct,15/10/2025,Freshwater,The Daily Telegraph,Online,"1,530",ALP,33.0,NA,NA,NA,NA
 2025,15-20 Oct,15/10/2025,Freshwater,The Daily Telegraph,Online,"1,530",L/NP,31.0,NA,NA,NA,NA
 2025,15-20 Oct,15/10/2025,Freshwater,The Daily Telegraph,Online,"1,530",GRN,14.0,NA,NA,NA,NA
@@ -959,13 +965,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,25-30 Sep,25/9/2025,YouGov,NA,Online,"1,329",IND,8.0,NA,NA,NA,NA
 2025,25-30 Sep,25/9/2025,YouGov,NA,Online,"1,329",OTH,14.0,NA,NA,NA,NA
 2025,25-30 Sep,25/9/2025,YouGov,NA,Online,"1,329",NA,NA,ALP,56.0,L/NP,44.0
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",ALP,35.0,NA,NA,NA,NA
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",L/NP,27.0,NA,NA,NA,NA
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",GRN,11.0,NA,NA,NA,NA
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",ONP,13.0,NA,NA,NA,NA
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",IND,14.0,NA,NA,NA,NA
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",OTH,14.0,NA,NA,NA,NA
-2025,24-29 Sep,24/9/2025,Essential,The Guardian,Online,"1,001",NA,NA,ALP,53.7,L/NP,46.3
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",ALP,35.0,NA,NA,NA,NA
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",L/NP,27.0,NA,NA,NA,NA
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",GRN,11.0,NA,NA,NA,NA
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",ONP,13.0,NA,NA,NA,NA
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",IND,14.0,NA,NA,NA,NA
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",OTH,14.0,NA,NA,NA,NA
+2025,24-29 Sep,24/9/2025,Essential,NA,Online,"1,001",NA,NA,ALP,53.7,L/NP,46.3
 2025,25 Aug - 21 Sep,25/8/2025,Roy Morgan,NA,Online,"5,084",ALP,34.0,NA,NA,NA,NA
 2025,25 Aug - 21 Sep,25/8/2025,Roy Morgan,NA,Online,"5,084",L/NP,30.0,NA,NA,NA,NA
 2025,25 Aug - 21 Sep,25/8/2025,Roy Morgan,NA,Online,"5,084",GRN,12.0,NA,NA,NA,NA
@@ -1008,13 +1014,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2025,9-16 Aug,9/8/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",IND,8.0,NA,NA,NA,NA
 2025,9-16 Aug,9/8/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",OTH,6.0,NA,NA,NA,NA
 2025,9-16 Aug,9/8/2025,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NA,NA,ALP,59.0,L/NP,41.0
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",ALP,36.0,NA,NA,NA,NA
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",L/NP,30.0,NA,NA,NA,NA
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",GRN,12.0,NA,NA,NA,NA
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",ONP,9.0,NA,NA,NA,NA
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",IND,13.0,NA,NA,NA,NA
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",OTH,13.0,NA,NA,NA,NA
-2025,11-14 Aug,11/8/2025,Newspoll,The New Daily,Online,"1,283",NA,NA,ALP,56.0,L/NP,44.0
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",ALP,36.0,NA,NA,NA,NA
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",L/NP,30.0,NA,NA,NA,NA
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",GRN,12.0,NA,NA,NA,NA
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",ONP,9.0,NA,NA,NA,NA
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",IND,13.0,NA,NA,NA,NA
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",OTH,13.0,NA,NA,NA,NA
+2025,11-14 Aug,11/8/2025,Newspoll,The Australian,Online,"1,283",NA,NA,ALP,56.0,L/NP,44.0
 2025,18-30 Jul,18/7/2025,Wolf & Smith,Australian Financial Review,Online,"5,000",ALP,36.0,NA,NA,NA,NA
 2025,18-30 Jul,18/7/2025,Wolf & Smith,Australian Financial Review,Online,"5,000",L/NP,30.0,NA,NA,NA,NA
 2025,18-30 Jul,18/7/2025,Wolf & Smith,Australian Financial Review,Online,"5,000",NA,NA,ALP,57.0,L/NP,43.0
