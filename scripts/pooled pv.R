@@ -303,5 +303,5 @@ labs(
   )
 p
 # ── 5. Save  -----------------------------------------------------------------
-out_address <- paste("output/figures/poll_plot ", max(df_clean$Date), ".png", sep = '')
+out_address <- paste("output/figures/poll_plot ", max(df_clean$Date_lb), ".png", sep = '')
 ggsave(out_address, plot = p, width = 10, height = 6, dpi = 150)
