@@ -1,4 +1,10 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",L/NP,25.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",ALP,26.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",GRN,12.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",ONP,24.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",IND,13.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",OTH,13.0,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",ALP,28.5,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",LIB,21.0,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",NAT,2.5,NA,NA,NA,NA
