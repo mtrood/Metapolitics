@@ -9,7 +9,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       # --------------------
       # Python
       # --------------------
@@ -17,10 +16,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Run scraper
         run: python scripts/scrape.py
-
       # --------------------
       # R
       # --------------------
@@ -28,14 +25,12 @@ jobs:
         uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true   # pre-compiled binaries for Ubuntu
-
       - name: Cache R packages
         uses: actions/cache@v4
         with:
           path: ${{ env.R_LIBS_USER }}
           key: r-${{ runner.os }}-${{ hashFiles('scripts/pooled_pv.R') }}
           restore-keys: r-${{ runner.os }}-
-
       - name: Install R packages
         run: |
           Rscript -e "
@@ -44,13 +39,10 @@ jobs:
             # Verify all installed in the same session
             invisible(lapply(pkgs, library, character.only = TRUE))
           "
-          
       - name: Create output directories
         run: mkdir -p output/figures
-
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
-
       # --------------------
       # Save outputs
       # --------------------
@@ -58,8 +50,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git fetch origin main
+          git checkout main
+          git rebase origin/main
           git add data/raw/data.csv
           git add output/figures/
-          git pull --rebase origin main
           git commit -m "Update scraped data and analysis" || echo "No changes to commit"
-          git push
+          git push origin main
