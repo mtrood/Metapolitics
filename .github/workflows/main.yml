@@ -53,9 +53,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data/raw/data.csv
           git add output/figures/
-          git stash
-          git fetch origin main
-          git rebase origin/main
-          git stash pop
           git commit -m "Update scraped data and analysis" || echo "No changes to commit"
-          git push origin main
+          git push --force-with-lease origin main
