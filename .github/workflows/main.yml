@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       # --------------------
       # Python
       # --------------------
@@ -52,10 +54,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git fetch origin main
-          git rebase origin/main
+          git reset --hard origin/main
           git add data/raw/data.csv
-          git add output/figures/
-          git checkout --theirs output/figures/
           git add output/figures/
           git commit -m "Update scraped data and analysis" || echo "No changes to commit"
           git push origin main
