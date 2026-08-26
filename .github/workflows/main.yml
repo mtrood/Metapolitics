@@ -20,6 +20,8 @@ jobs:
           python-version: '3.11'
       - name: Run scraper
         run: python scripts/scrape.py
+      - name: Back up scraped data
+        run: cp data/raw/data.csv /tmp/data.csv
       # --------------------
       # R
       # --------------------
@@ -55,6 +57,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git fetch origin main
           git reset --hard origin/main
+          cp /tmp/data.csv data/raw/data.csv
           git add data/raw/data.csv
           git add output/figures/
           git commit -m "Update scraped data and analysis" || echo "No changes to commit"
