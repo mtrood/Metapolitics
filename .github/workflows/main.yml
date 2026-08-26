@@ -9,8 +9,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+
       # --------------------
       # Python
       # --------------------
@@ -18,10 +17,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Run scraper
         run: python scripts/scrape.py
-      - name: Back up scraped data
-        run: cp data/raw/data.csv /tmp/data.csv
+
       # --------------------
       # R
       # --------------------
@@ -29,12 +28,14 @@ jobs:
         uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
+
       - name: Cache R packages
         uses: actions/cache@v4
         with:
           path: ${{ env.R_LIBS_USER }}
           key: r-${{ runner.os }}-${{ hashFiles('scripts/pooled_pv.R') }}
           restore-keys: r-${{ runner.os }}-
+
       - name: Install R packages
         run: |
           Rscript -e "
@@ -42,14 +43,16 @@ jobs:
             install.packages(pkgs, repos = 'https://packagemanager.posit.co/cran/__linux__/jammy/latest')
             invisible(lapply(pkgs, library, character.only = TRUE))
           "
-      - name: Clear old figures and recreate directory
-        run: |
-          rm -rf output/figures
-          mkdir -p output/figures
+
+      - name: Create output directories
+        run: mkdir -p output/figures
+
+      - name: Run R analysis
+        run: Rscript "scripts/pooled_pv.R"
+
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
-      - name: Back up figure
-        run: cp -r output/figures /tmp/figures
+
       # --------------------
       # Save outputs
       # --------------------
@@ -57,13 +60,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git fetch origin main
-          git reset --hard origin/main
-          cp /tmp/data.csv data/raw/data.csv
-          rm -rf output/figures
-          cp -r /tmp/figures output/figures
-          git status
           git add data/raw/data.csv
           git add output/figures/
           git commit -m "Update scraped data and analysis" || echo "No changes to commit"
-          git push origin main
+          git push
