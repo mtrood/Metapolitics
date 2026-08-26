@@ -48,6 +48,8 @@ jobs:
           mkdir -p output/figures
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
+      - name: Back up figure
+        run: cp -r output/figures /tmp/figures
       # --------------------
       # Save outputs
       # --------------------
@@ -58,6 +60,9 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
           cp /tmp/data.csv data/raw/data.csv
+          rm -rf output/figures
+          cp -r /tmp/figures output/figures
+          git status
           git add data/raw/data.csv
           git add output/figures/
           git commit -m "Update scraped data and analysis" || echo "No changes to commit"
