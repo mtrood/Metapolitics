@@ -1,12 +1,26 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",L/NP,21.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",ALP,29.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",GRN,12.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",ONP,26.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",IND,5.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",OTH,7.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",L/NP,19.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",ALP,29.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",GRN,13.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",ONP,30.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",IND,9.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",OTH,9.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",L/NP,22.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ALP,29.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",GRN,12.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ONP,28.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",IND,9.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",OTH,9.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,48.0,L/NP,52.0
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,52.0,ONP,48.0
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",L/NP,21.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",ALP,29.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",GRN,12.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",ONP,26.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",IND,5.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",OTH,7.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",NA,NA,ALP,53.0,L/NP,47.0
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",NA,NA,ALP,56.0,ONP,44.0
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",ALP,27.0,NA,NA,NA,NA
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",LIB,18.5,NA,NA,NA,NA
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",NAT,2.5,NA,NA,NA,NA
