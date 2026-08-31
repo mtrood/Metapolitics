@@ -300,6 +300,15 @@ labs(
     panel.grid.major = element_line(colour = "grey92"),
     plot.caption     = element_text(colour = "grey55", size = 8,
                                     hjust = 0, margin = margin(t = 6))
+  ) +
+  annotate(
+    "text",
+    x     = Inf, y = Inf,
+    label = "Metapolitics",
+    hjust = 1.1, vjust = 1.5,
+    size  = 4,
+    colour = "grey80",
+    fontface = "bold"
   )
 p
 # ── 5. Save  -----------------------------------------------------------------
