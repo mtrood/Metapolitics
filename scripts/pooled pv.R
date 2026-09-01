@@ -123,12 +123,25 @@ names(df_bound) <- sub('^X', '', names(df_bound))
 
 # 2) Pooled effects: Single-level two week  combined ---------------------------
 
+# Pre-compute the set of week_ids that actually have polls (after filters)
+# This is used inside the lapply to find the nearest prior week with data.
+weeks_with_polls <- df_bound %>%
+  filter(
+    is.na(`2pp_party_1`),
+    pv_party != 'LIB',
+    pv_party != 'NAT',
+    election == FALSE,
+    !str_detect(Polling.firm, "MRP"),
+    !is.na(week_id)
+  ) %>%
+  pull(week_id) %>%
+  unique() %>%
+  sort()
+
 uni_model_list <- lapply(
-  # Lapply on all months except the first
-  unique(na.omit(df_bound$week_id))[!unique(na.omit(df_bound$week_id)) %in% min(na.omit(df_bound$week_id))], function(week){
-    # Create time band parameters
-    week_prior = week-1
-    two_weeks_prior = week-2
+  # Lapply on all weeks except the first
+  weeks_with_polls[weeks_with_polls != min(weeks_with_polls)], function(week){
+    
     # Select week and week prior
     master_df = df_bound %>%
       
@@ -138,6 +151,11 @@ uni_model_list <- lapply(
                pv_party != 'NAT' &                  
                election == FALSE &                  # Election rows
                !str_detect(Polling.firm, "MRP"))    # MRP rows
+    
+    # Dynamically find the most recent prior week that actually has polls,
+    # however far back that is — handles gaps of any length.
+    prior_weeks_available <- weeks_with_polls[weeks_with_polls < week]
+    week_prior <- if (length(prior_weeks_available) > 0) max(prior_weeks_available) else NA
     
     rolling_df = master_df[master_df$week_id %in% week | master_df$week_id %in% week_prior,]
     
@@ -183,8 +201,8 @@ uni_model_list <- lapply(
               est_ci_ub = NA,
               n = NA,
               k = NA
-              )
-            )%>%
+            )
+          )%>%
             select(pv_party, n, k, week_min, week_max,everything())
         }
         return(list(analysis_df,mod_df))
@@ -207,6 +225,18 @@ analy_df_all <- do.call(rbind, lapply(uni_flat, `[[`, 1)) %>%
 # Unlist model data
 mod_df_all <- do.call(rbind, lapply(uni_flat, `[[`, 2))
 
+# Extract election result rows for plotting (excluded from model above)
+election_df <- df_clean %>%
+  filter(
+    election == TRUE,
+    pv_party %in% c("ALP", "LNP", "GRN", "ONP", "IND")
+  ) %>%
+  select(pv_party, pv_prop, Date_lb) %>%
+  mutate(pv_prop = pv_prop * .01) %>%
+  group_by(pv_party) %>%
+  slice_min(Date_lb) %>%
+  ungroup
+
 # 3) Create Geom line/ point plot ----------------------------------------------
 
 # Create Colour palette
@@ -224,16 +254,81 @@ party_colours_faded <- scales::alpha(party_colours, 0.35)
 names(party_colours_faded) <- names(party_colours)
 
 
-# ── 4.Amend data for plot -----------------------------------------------------
+# 4) Amend data for plot -------------------------------------------------------
 # Create upper scale limit
 scale_roof <- .50
 
 mod_plot_df <- mod_df_all %>%
   mutate(
+    week_max  = as.Date(week_max),
+    week_min  = as.Date(week_min),
     est_ci_ub = ifelse(est_ci_ub > scale_roof, scale_roof, est_ci_ub)
   )
 
-# ── 5. Build the plot --------------------------------------------------------
+# Ensure Date columns are Date class in all plot dataframes
+analy_df_all <- analy_df_all %>%
+  mutate(
+    Date_lb    = as.Date(Date_lb),
+    week_floor = as.Date(week_floor)
+  )
+
+election_df <- election_df %>%
+  mutate(Date_lb = as.Date(Date_lb))
+
+# 5) Interpolate across gaps so line and ribbon are continuous ------------
+
+# mod_plot_df week_max values may be irregular (polls don't fall on exact
+# weekly boundaries). We build a single regular weekly spine across the full
+# date range, snap each observed estimate to its nearest spine date, then
+# interpolate linearly across any remaining gaps.
+
+mod_plot_df <- mod_plot_df %>%
+  mutate(week_max = as.Date(week_max)) %>%
+  filter(!is.na(week_max)) %>%
+  # Where multiple estimates share a week_max keep the most recent window
+  group_by(pv_party, week_max) %>%
+  slice_max(week_min, n = 1, with_ties = FALSE) %>%
+  ungroup()
+
+# Build a single regular weekly spine from the global min to max date
+global_min <- min(mod_plot_df$week_max, na.rm = TRUE)
+global_max <- max(mod_plot_df$week_max, na.rm = TRUE)
+weekly_spine <- seq.Date(global_min, global_max, by = "week")
+
+# Snap each observed week_max to the nearest spine date so complete() works
+# on a consistent grid across all parties
+mod_plot_df <- mod_plot_df %>%
+  mutate(
+    week_max = weekly_spine[
+      findInterval(week_max, weekly_spine - 3L, rightmost.closed = TRUE)
+    ]
+  ) %>%
+  # Re-deduplicate after snapping (two obs may snap to same spine date)
+  group_by(pv_party, week_max) %>%
+  slice_max(week_min, n = 1, with_ties = FALSE) %>%
+  ungroup() %>%
+  # Expand each party to the full spine and interpolate
+  group_by(pv_party) %>%
+  complete(week_max = weekly_spine) %>%
+  mutate(
+    # complete() can silently coerce Date to numeric — re-assert Date class
+    week_max = as.Date(week_max),
+    across(c(est, est_ci_lb, est_ci_ub), ~ {
+      obs <- !is.na(.)
+      if (sum(obs) < 2) return(.)
+      approx(
+        x    = as.numeric(week_max[obs]),
+        y    = .[obs],
+        xout = as.numeric(week_max),
+        rule = 1    # no extrapolation beyond first/last observed point
+      )$y
+    })
+  ) %>%
+  ungroup() %>%
+  # Final safety check — ensure week_max is Date throughout
+  mutate(week_max = as.Date(week_max))
+
+# 6) Build the plot ------------------------------------------------------------
 p <- ggplot() +
   
   # Shaded CI ribbon (one per party)
@@ -251,6 +346,15 @@ p <- ggplot() +
     mapping = aes(x = week_floor, y = pv_prop, colour = pv_party),
     size    = 1.8,
     alpha   = 0.35,
+    shape   = 16
+  ) +
+  
+  # Election result – enlarged dot per party
+  geom_point(
+    data    = election_df,
+    mapping = aes(x = Date_lb, y = pv_prop, colour = pv_party),
+    size    = 3,
+    alpha   = 0.85,
     shape   = 16
   ) +
   
@@ -287,7 +391,7 @@ labs(
   x     = NULL,
   y     = "Primary vote",
   title = "Australian federal voting intention",
-  caption = "Lines show 2-week rolling pooled estimates with 95% CI shading.\nDots show individual poll results."
+  caption = "Lines show 2-week weighted average with 95% CI shading.\nSmall dots show individual poll results. Large dots show the 2025 election result."
 ) +
   
   theme_minimal(base_size = 12) +
