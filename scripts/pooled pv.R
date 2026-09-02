@@ -52,26 +52,31 @@ df_clean <- df_raw %>%
     across(c('Polling.firm','Client','Interview.mode','2pp_party_1'),
            ~as.factor(.x)
     ),
-    pv_n = round(pv_prop / 100 * sample)
+    pv_n = round(pv_prop / 100 * sample),
+    row_id = 1:nrow(.)
   ) %>%
-
+  
   # Create poll ID, denote whether poll included LNP primary vote
   group_by(Year, Date, Polling.firm) %>%
   mutate(
     poll_id = cur_group_id(),
-    pv_prop_recode =  case_when(
-        pv_party != "NAT" &  pv_party != 'LIB' ~ pv_prop,
-        any(pv_party == 'LNP') ~ NA,
-        T ~ pv_prop
-    )
-  ) %>%
+    pv_collapse =  case_when(
+      any(pv_party == "NAT") |  any(pv_party == 'LIB') ~ TRUE,
+    ) 
+  )%>%
   ungroup()
 
 # Create LNP combined primary vote where LIB and NAT are reported separately
-df_clean_pv_coll <- df_clean %>%
+LNP_target_rows <- df_clean %>%
   
-  # Select LIB/NAT rows from polls without a an LNV pv, exlude MRP polls.
-  filter(is.na(pv_prop_recode) & is.na(`2pp_party_1`)) %>%
+  # Select LIB/NAT rows from polls without a an LNP pv, exlude MRP polls.
+  filter(pv_collapse == TRUE & 
+           (pv_party == 'LNP' | 
+            pv_party == 'NAT' |  
+            pv_party == 'LIB') &
+           is.na(`2pp_party_1`))
+
+df_clean_pv_coll <- LNP_target_rows %>%
   # Combine LIB and NAT PVs
   group_by(Year, Date, Date_lb, Polling.firm, Client, Interview.mode, Sample.size, poll_id,date_floor, week_floor) %>%
   summarise(
@@ -84,7 +89,12 @@ df_clean_pv_coll <- df_clean %>%
     pv_party = 'LNP'
   )
 
-df_bound <- bind_rows(df_clean, df_clean_pv_coll) %>%
+df_bound <- df_clean %>%
+  filter(!row_id %in% LNP_target_rows$row_id) %>%
+  mutate(
+    pv_prop_recode = pv_prop,
+  )%>%
+  bind_rows(., df_clean_pv_coll) %>%
   arrange(desc(date_floor), Polling.firm) %>%
   # Add effect id
   mutate(
