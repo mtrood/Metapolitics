@@ -1,4 +1,10 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",L/NP,26.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",ALP,26.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",GRN,13.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",ONP,23.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",IND,11.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",OTH,11.0,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",ALP,29.5,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",LIB,18.0,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",NAT,2.5,NA,NA,NA,NA
