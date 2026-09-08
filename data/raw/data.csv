@@ -1,39 +1,40 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
-2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",L/NP,26.0,NA,NA,NA,NA
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",ALP,27.0,NA,NA,NA,NA
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",LIB,17.0,NA,NA,NA,NA
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",NAT,4.5,NA,NA,NA,NA
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",GRN,14.5,NA,NA,NA,NA
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",ONP,26.5,NA,NA,NA,NA
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",NA,NA,ALP,53.0,L/NP,47.0
+2026,31 Aug - 6 Sept,31/8/2026,Roy Morgan,NA,Online,"1,541",NA,NA,ALP,53.5,ONP,46.5
 2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",ALP,26.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",LIB,26.0,NA,NA,NA,NA
+2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",NAT,26.0,NA,NA,NA,NA
 2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",GRN,13.0,NA,NA,NA,NA
 2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",ONP,23.0,NA,NA,NA,NA
-2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",IND,11.0,NA,NA,NA,NA
-2026,26-31 Aug,26/8/2026,Essential,The Guardian,Online,"1,050",OTH,11.0,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",ALP,29.5,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",LIB,18.0,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",NAT,2.5,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",GRN,13.5,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",ONP,23.5,NA,NA,NA,NA
-2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",IND,13.0,NA,NA,NA,NA
-2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",OTH,13.0,NA,NA,NA,NA
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",NA,NA,ALP,56.0,L/NP,44.0
 2026,24-30 Aug,24/8/2026,Roy Morgan,NA,Online,"1,585",NA,NA,ALP,55.5,ONP,44.5
-2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",L/NP,19.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",ALP,29.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",LIB,19.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",NAT,19.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",GRN,13.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",ONP,30.0,NA,NA,NA,NA
-2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",IND,9.0,NA,NA,NA,NA
-2026,24-28 Aug,24/8/2026,Newspoll,The Australian,Online,"1,243",OTH,9.0,NA,NA,NA,NA
-2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",L/NP,22.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ALP,29.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",LIB,22.0,NA,NA,NA,NA
+2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NAT,22.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",GRN,12.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ONP,28.0,NA,NA,NA,NA
-2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",IND,9.0,NA,NA,NA,NA
-2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",OTH,9.0,NA,NA,NA,NA
 2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,48.0,L/NP,52.0
 2026,24-28 Aug,24/8/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,52.0,ONP,48.0
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",L/NP,21.0,NA,NA,NA,NA
 2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",ALP,29.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",LIB,21.0,NA,NA,NA,NA
+2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",NAT,21.0,NA,NA,NA,NA
 2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",GRN,12.0,NA,NA,NA,NA
 2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",ONP,26.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",IND,5.0,NA,NA,NA,NA
-2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",OTH,7.0,NA,NA,NA,NA
 2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",NA,NA,ALP,53.0,L/NP,47.0
 2026,18-24 Aug,18/8/2026,YouGov,News24,Online,"1,510",NA,NA,ALP,56.0,ONP,44.0
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",ALP,27.0,NA,NA,NA,NA
@@ -41,37 +42,30 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",NAT,2.5,NA,NA,NA,NA
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",GRN,14.0,NA,NA,NA,NA
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",ONP,27.0,NA,NA,NA,NA
-2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",IND,11.0,NA,NA,NA,NA
-2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",OTH,11.0,NA,NA,NA,NA
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",NA,NA,ALP,52.0,L/NP,48.0
 2026,17-23 Aug,17/8/2026,Roy Morgan,NA,Online,"1,508",NA,NA,ALP,53.0,ONP,47.0
-2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",L/NP,25.0,NA,NA,NA,NA
 2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",ALP,26.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",LIB,25.0,NA,NA,NA,NA
+2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",NAT,25.0,NA,NA,NA,NA
 2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",GRN,12.0,NA,NA,NA,NA
 2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",ONP,24.0,NA,NA,NA,NA
-2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",IND,13.0,NA,NA,NA,NA
-2026,18-20 Aug,18/8/2026,DemosAU,Capital Brief,Online,"1,562",OTH,13.0,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",ALP,28.5,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",LIB,21.0,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",NAT,2.5,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",GRN,12.5,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",ONP,25.0,NA,NA,NA,NA
-2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",IND,10.5,NA,NA,NA,NA
-2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",OTH,10.5,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",NA,NA,ALP,52.0,L/NP,48.0
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",NA,NA,ALP,53.0,ONP,47.0
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",L/NP,23.0,NA,NA,NA,NA
 2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ALP,28.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",LIB,23.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",NAT,23.0,NA,NA,NA,NA
 2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",GRN,12.0,NA,NA,NA,NA
 2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ONP,26.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",IND,7.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",OTH,4.0,NA,NA,NA,NA
-2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",L/NP,22.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",ALP,28.0,NA,NA,NA,NA
+2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",LIB,22.0,NA,NA,NA,NA
+2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",NAT,22.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",GRN,12.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",ONP,24.0,NA,NA,NA,NA
-2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",IND,5.0,NA,NA,NA,NA
-2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",OTH,9.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,52.0,L/NP,48.0
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
 2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",ALP,25.5,NA,NA,NA,NA
@@ -79,68 +73,56 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",NAT,3.5,NA,NA,NA,NA
 2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",GRN,15.5,NA,NA,NA,NA
 2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",ONP,26.0,NA,NA,NA,NA
-2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",IND,11.0,NA,NA,NA,NA
-2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",OTH,11.0,NA,NA,NA,NA
 2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",NA,NA,ALP,53.0,L/NP,47.0
 2026,3-9 Aug,3/8/2026,Roy Morgan,NA,Online,"1,647",NA,NA,ALP,53.0,ONP,47.0
-2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",L/NP,18.0,NA,NA,NA,NA
 2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",ALP,29.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",LIB,18.0,NA,NA,NA,NA
+2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",NAT,18.0,NA,NA,NA,NA
 2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",GRN,14.0,NA,NA,NA,NA
 2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",ONP,29.0,NA,NA,NA,NA
-2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",IND,10.0,NA,NA,NA,NA
-2026,3-7 Aug,3/8/2026,Newspoll,The Australian,Online,"1,242",OTH,10.0,NA,NA,NA,NA
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",ALP,27.5,NA,NA,NA,NA
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",LIB,20.0,NA,NA,NA,NA
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",NAT,3.5,NA,NA,NA,NA
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",GRN,15.0,NA,NA,NA,NA
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",ONP,24.0,NA,NA,NA,NA
-2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",IND,10.0,NA,NA,NA,NA
-2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",OTH,10.0,NA,NA,NA,NA
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",NA,NA,ALP,52.0,L/NP,48.0
 2026,27 Jul-2 Aug,27/7/2026,Roy Morgan,NA,Online,"1,531",NA,NA,ALP,54.0,ONP,46.0
-2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",L/NP,19.0,NA,NA,NA,NA
 2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",ALP,32.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",LIB,19.0,NA,NA,NA,NA
+2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",NAT,19.0,NA,NA,NA,NA
 2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",GRN,12.0,NA,NA,NA,NA
 2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",ONP,26.0,NA,NA,NA,NA
-2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",IND,8.0,NA,NA,NA,NA
-2026,Late July,,Agenda C Synesis,Combat Antisemitism Movement,Online,"1,232",OTH,4.0,NA,NA,NA,NA
-2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",L/NP,22.0,NA,NA,NA,NA
 2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",ALP,29.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",LIB,22.0,NA,NA,NA,NA
+2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",NAT,22.0,NA,NA,NA,NA
 2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",GRN,10.0,NA,NA,NA,NA
 2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",ONP,31.0,NA,NA,NA,NA
-2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",IND,8.0,NA,NA,NA,NA
-2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",OTH,8.0,NA,NA,NA,NA
 2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",NA,NA,ALP,48.0,L/NP,52.0
 2026,27-30 Jul,27/7/2026,RedBridge/Accent,Australian Financial Review,Online,"1,001",NA,NA,ALP,53.0,ONP,47.0
-2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",L/NP,22.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",ALP,28.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",LIB,22.0,NA,NA,NA,NA
+2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NAT,22.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",ONP,25.0,NA,NA,NA,NA
-2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
 2026,21-28 Jul,21/7/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
-2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",L/NP,22.0,NA,NA,NA,NA
 2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",ALP,31.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",LIB,22.0,NA,NA,NA,NA
+2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",NAT,22.0,NA,NA,NA,NA
 2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",GRN,12.0,NA,NA,NA,NA
 2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",ONP,25.0,NA,NA,NA,NA
-2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",IND,10.0,NA,NA,NA,NA
-2026,22-27 Jul,22/7/2026,Essential,The Guardian,Online,"1,060",OTH,10.0,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",ALP,27.5,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",LIB,18.5,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NAT,3.5,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",GRN,14.0,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",ONP,25.5,NA,NA,NA,NA
-2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",IND,11.0,NA,NA,NA,NA
-2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",OTH,11.0,NA,NA,NA,NA
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NA,NA,ALP,54.0,L/NP,46.0
 2026,20-26 Jul,20/7/2026,Roy Morgan,NA,Online,"1,643",NA,NA,ALP,53.5,ONP,46.5
-2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",L/NP,23.0,NA,NA,NA,NA
 2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",ALP,28.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",LIB,23.0,NA,NA,NA,NA
+2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",NAT,23.0,NA,NA,NA,NA
 2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",GRN,12.0,NA,NA,NA,NA
 2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",ONP,26.0,NA,NA,NA,NA
-2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",IND,11.0,NA,NA,NA,NA
-2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",OTH,11.0,NA,NA,NA,NA
 2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",NA,NA,ALP,51.0,L/NP,49.0
 2026,11-23 Jul,11/7/2026,Spectre Strategy,NA,Online,"1,434",NA,NA,ALP,54.0,ONP,46.0
 2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",ALP,27.5,NA,NA,NA,NA
@@ -148,22 +130,18 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",NAT,2.5,NA,NA,NA,NA
 2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",GRN,14.0,NA,NA,NA,NA
 2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",ONP,22.5,NA,NA,NA,NA
-2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",IND,13.0,NA,NA,NA,NA
-2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",OTH,13.0,NA,NA,NA,NA
 2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",NA,NA,ALP,56.0,L/NP,44.0
 2026,13-19 Jul,13/7/2026,Roy Morgan,NA,Online,"1,679",NA,NA,ALP,55.0,ONP,45.0
-2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",L/NP,19.0,NA,NA,NA,NA
 2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",ALP,30.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",LIB,19.0,NA,NA,NA,NA
+2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",NAT,19.0,NA,NA,NA,NA
 2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",GRN,12.0,NA,NA,NA,NA
 2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",ONP,30.0,NA,NA,NA,NA
-2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",IND,9.0,NA,NA,NA,NA
-2026,13-16 Jul,13/7/2026,Newspoll,The Australian,Online,"1,238",OTH,9.0,NA,NA,NA,NA
-2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,20.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",ALP,28.0,NA,NA,NA,NA
+2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",LIB,20.0,NA,NA,NA,NA
+2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",NAT,20.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",GRN,12.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",ONP,26.0,NA,NA,NA,NA
-2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",OTH,8.0,NA,NA,NA,NA
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
 2026,7-14 Jul,7/7/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",ALP,27.5,NA,NA,NA,NA
@@ -171,89 +149,73 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",NAT,2.5,NA,NA,NA,NA
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",GRN,12.5,NA,NA,NA,NA
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",ONP,28.0,NA,NA,NA,NA
-2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",IND,12.0,NA,NA,NA,NA
-2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",OTH,12.0,NA,NA,NA,NA
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",NA,NA,ALP,54.0,L/NP,46.0
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",NA,NA,ALP,52.5,ONP,47.5
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",L/NP,23.0,NA,NA,NA,NA
 2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",ALP,28.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",LIB,23.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",NAT,23.0,NA,NA,NA,NA
 2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",GRN,12.0,NA,NA,NA,NA
 2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",ONP,26.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",IND,6.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",OTH,5.0,NA,NA,NA,NA
-2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",L/NP,21.0,NA,NA,NA,NA
 2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",ALP,26.0,NA,NA,NA,NA
+2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",LIB,21.0,NA,NA,NA,NA
+2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",NAT,21.0,NA,NA,NA,NA
 2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",GRN,14.0,NA,NA,NA,NA
 2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",ONP,29.0,NA,NA,NA,NA
-2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",IND,10.0,NA,NA,NA,NA
-2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",OTH,10.0,NA,NA,NA,NA
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",ALP,28.0,NA,NA,NA,NA
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",LIB,19.0,NA,NA,NA,NA
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",NAT,2.5,NA,NA,NA,NA
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",GRN,14.0,NA,NA,NA,NA
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",ONP,22.5,NA,NA,NA,NA
-2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",IND,14.0,NA,NA,NA,NA
-2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",OTH,14.0,NA,NA,NA,NA
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",NA,NA,ALP,55.0,L/NP,45.0
 2026,28 Jun - 5 Jul,28/6/2026,Roy Morgan,NA,Online,"1,584",NA,NA,ALP,56.0,ONP,44.0
-2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",L/NP,17.0,NA,NA,NA,NA
 2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",ALP,29.0,NA,NA,NA,NA
+2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",LIB,17.0,NA,NA,NA,NA
+2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",NAT,17.0,NA,NA,NA,NA
 2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",GRN,13.0,NA,NA,NA,NA
 2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",ONP,30.0,NA,NA,NA,NA
-2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",IND,6.0,NA,NA,NA,NA
-2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",OTH,5.0,NA,NA,NA,NA
 2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",NA,NA,ALP,54.0,L/NP,46.0
 2026,23-30 Jun,23/6/2026,YouGov,Sky News Australia,Online,"1,502",NA,NA,ALP,54.0,ONP,46.0
-2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",L/NP,23.0,NA,NA,NA,NA
 2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",ALP,30.0,NA,NA,NA,NA
+2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",LIB,23.0,NA,NA,NA,NA
+2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",NAT,23.0,NA,NA,NA,NA
 2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",GRN,10.0,NA,NA,NA,NA
 2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",ONP,26.0,NA,NA,NA,NA
-2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",IND,10.0,NA,NA,NA,NA
-2026,24-29 Jun,24/6/2026,Essential,The Guardian,Online,"1,017",OTH,10.0,NA,NA,NA,NA
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",ALP,28.0,NA,NA,NA,NA
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",LIB,19.0,NA,NA,NA,NA
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",NAT,2.5,NA,NA,NA,NA
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",GRN,13.0,NA,NA,NA,NA
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",ONP,26.0,NA,NA,NA,NA
-2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",IND,11.5,NA,NA,NA,NA
-2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",OTH,11.5,NA,NA,NA,NA
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",NA,NA,ALP,53.5,L/NP,46.5
 2026,22-28 Jun,22/6/2026,Roy Morgan,NA,Online,"1,639",NA,NA,ALP,53.0,ONP,47.0
-2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",L/NP,18.0,NA,NA,NA,NA
 2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ALP,30.0,NA,NA,NA,NA
+2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",LIB,18.0,NA,NA,NA,NA
+2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NAT,18.0,NA,NA,NA,NA
 2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",GRN,14.0,NA,NA,NA,NA
 2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ONP,29.0,NA,NA,NA,NA
-2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",IND,9.0,NA,NA,NA,NA
-2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",OTH,9.0,NA,NA,NA,NA
 2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,54.0,L/NP,46.0
 2026,22-26 Jun,22/6/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,56.0,ONP,44.0
-2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",L/NP,17.0,NA,NA,NA,NA
 2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",ALP,33.0,NA,NA,NA,NA
+2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",LIB,17.0,NA,NA,NA,NA
+2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",NAT,17.0,NA,NA,NA,NA
 2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",GRN,13.0,NA,NA,NA,NA
 2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",ONP,29.0,NA,NA,NA,NA
-2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",IND,8.0,NA,NA,NA,NA
-2026,22-25 Jun,22/6/2026,Newspoll,The Australian,Online,"1,235",OTH,8.0,NA,NA,NA,NA
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",ALP,27.0,NA,NA,NA,NA
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",LIB,15.0,NA,NA,NA,NA
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",NAT,2.5,NA,NA,NA,NA
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",GRN,13.5,NA,NA,NA,NA
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",ONP,31.5,NA,NA,NA,NA
-2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",IND,10.5,NA,NA,NA,NA
-2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",OTH,10.5,NA,NA,NA,NA
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",NA,NA,ALP,54.0,L/NP,46.0
 2026,15-21 Jun,15/6/2026,Roy Morgan,NA,Online,"1,575",NA,NA,ALP,51.0,ONP,49.0
-2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",L/NP,18.0,NA,NA,NA,NA
 2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",ALP,27.0,NA,NA,NA,NA
+2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",LIB,18.0,NA,NA,NA,NA
+2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",NAT,18.0,NA,NA,NA,NA
 2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",GRN,13.0,NA,NA,NA,NA
 2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",ONP,30.0,NA,NA,NA,NA
-2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",IND,12.0,NA,NA,NA,NA
-2026,16-18 Jun,16/6/2026,DemosAU,Capital Brief,Online,"1,497",OTH,12.0,NA,NA,NA,NA
-2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,21.0,NA,NA,NA,NA
 2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",ALP,26.0,NA,NA,NA,NA
+2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",LIB,21.0,NA,NA,NA,NA
+2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",NAT,21.0,NA,NA,NA,NA
 2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",ONP,28.0,NA,NA,NA,NA
-2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",IND,7.0,NA,NA,NA,NA
-2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",OTH,5.0,NA,NA,NA,NA
 2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,52.0,L/NP,48.0
 2026,9-16 Jun,9/6/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,52.0,ONP,48.0
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",ALP,28.0,NA,NA,NA,NA
@@ -261,37 +223,30 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",NAT,2.0,NA,NA,NA,NA
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",GRN,14.0,NA,NA,NA,NA
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",ONP,29.5,NA,NA,NA,NA
-2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",IND,11.5,NA,NA,NA,NA
-2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",OTH,11.5,NA,NA,NA,NA
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,54.5,L/NP,45.5
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,53.0,ONP,47.0
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",L/NP,20.0,NA,NA,NA,NA
 2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",ALP,28.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",LIB,20.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",NAT,20.0,NA,NA,NA,NA
 2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",GRN,12.0,NA,NA,NA,NA
 2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",ONP,29.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",IND,7.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",OTH,5.0,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",ALP,26.0,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",LIB,14.5,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",NAT,3.0,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",GRN,15.5,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",ONP,29.5,NA,NA,NA,NA
-2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",IND,11.5,NA,NA,NA,NA
-2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",OTH,11.5,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",NA,NA,ALP,56.0,L/NP,44.0
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",NA,NA,ALP,53.5,ONP,46.5
-2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",L/NP,18.0,NA,NA,NA,NA
 2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",ALP,30.0,NA,NA,NA,NA
+2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",LIB,18.0,NA,NA,NA,NA
+2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",NAT,18.0,NA,NA,NA,NA
 2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",GRN,11.0,NA,NA,NA,NA
 2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",ONP,31.0,NA,NA,NA,NA
-2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",IND,10.0,NA,NA,NA,NA
-2026,1-4 Jun,1/6/2026,Newspoll,The Australian,Online,"1,240",OTH,10.0,NA,NA,NA,NA
-2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",L/NP,20.0,NA,NA,NA,NA
 2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",ALP,26.0,NA,NA,NA,NA
+2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",LIB,20.0,NA,NA,NA,NA
+2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",NAT,20.0,NA,NA,NA,NA
 2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",GRN,13.0,NA,NA,NA,NA
 2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",ONP,29.0,NA,NA,NA,NA
-2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",IND,6.0,NA,NA,NA,NA
-2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",OTH,6.0,NA,NA,NA,NA
 2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",NA,NA,ALP,51.5,L/NP,48.5
 2026,26 May - 2 Jun,26/5/2026,YouGov,Sky News Australia,Online,"1,471",NA,NA,ALP,52.5,ONP,47.5
 2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",ALP,27.0,NA,NA,NA,NA
@@ -299,124 +254,103 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",NAT,2.5,NA,NA,NA,NA
 2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",GRN,13.5,NA,NA,NA,NA
 2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",ONP,27.0,NA,NA,NA,NA
-2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",IND,12.5,NA,NA,NA,NA
-2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",OTH,12.5,NA,NA,NA,NA
 2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",NA,NA,ALP,55.5,L/NP,44.5
 2026,25-31 May,25/5/2026,Roy Morgan,NA,Online,"1,542",NA,NA,ALP,53.5,ONP,46.5
-2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",L/NP,20.0,NA,NA,NA,NA
 2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",ALP,28.0,NA,NA,NA,NA
+2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",LIB,20.0,NA,NA,NA,NA
+2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",NAT,20.0,NA,NA,NA,NA
 2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",GRN,12.0,NA,NA,NA,NA
 2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",ONP,31.0,NA,NA,NA,NA
-2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",IND,9.0,NA,NA,NA,NA
-2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",OTH,9.0,NA,NA,NA,NA
 2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",NA,NA,ALP,51.0,L/NP,49.0
 2026,25-28 May,25/5/2026,RedBridge/Accent,Australian Financial Review,Online,"1,005",NA,NA,ALP,51.0,ONP,49.0
-2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",L/NP,25.0,NA,NA,NA,NA
 2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",ALP,29.0,NA,NA,NA,NA
+2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",LIB,25.0,NA,NA,NA,NA
+2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",NAT,25.0,NA,NA,NA,NA
 2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",GRN,10.0,NA,NA,NA,NA
 2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",ONP,27.0,NA,NA,NA,NA
-2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",IND,9.0,NA,NA,NA,NA
-2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",OTH,9.0,NA,NA,NA,NA
 2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",NA,NA,ALP,49.0,L/NP,51.0
 2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",NA,NA,ALP,54.0,ONP,46.0
 2026,25-26 May,25/5/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,700",NA,NA,L/NP,58.0,ONP,42.0
-2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",L/NP,18.0,NA,NA,NA,NA
 2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",ALP,29.0,NA,NA,NA,NA
+2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",LIB,18.0,NA,NA,NA,NA
+2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",NAT,18.0,NA,NA,NA,NA
 2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",GRN,10.0,NA,NA,NA,NA
 2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",ONP,24.0,NA,NA,NA,NA
-2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",IND,6.0,NA,NA,NA,NA
-2026,22-26 May,22/5/2026,Agenda C Synesis,Fair Go Australia,Online,"1,232",OTH,13.0,NA,NA,NA,NA
-2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",L/NP,23.0,NA,NA,NA,NA
 2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",ALP,29.0,NA,NA,NA,NA
+2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",LIB,23.0,NA,NA,NA,NA
+2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",NAT,23.0,NA,NA,NA,NA
 2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",GRN,11.0,NA,NA,NA,NA
 2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",ONP,28.0,NA,NA,NA,NA
-2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",IND,9.0,NA,NA,NA,NA
-2026,20-25 May,20/5/2026,Essential,The Guardian,Online,"1,027",OTH,9.0,NA,NA,NA,NA
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",ALP,27.5,NA,NA,NA,NA
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",LIB,21.0,NA,NA,NA,NA
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",NAT,2.0,NA,NA,NA,NA
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",GRN,13.5,NA,NA,NA,NA
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",ONP,25.5,NA,NA,NA,NA
-2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",IND,10.5,NA,NA,NA,NA
-2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",OTH,10.5,NA,NA,NA,NA
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",NA,NA,ALP,53.0,L/NP,47.0
 2026,18-24 May,18/5/2026,Roy Morgan,NA,Online,"1,613",NA,NA,ALP,53.5,ONP,46.5
-2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",L/NP,23.0,NA,NA,NA,NA
 2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",ALP,26.0,NA,NA,NA,NA
+2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",LIB,23.0,NA,NA,NA,NA
+2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",NAT,23.0,NA,NA,NA,NA
 2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",GRN,13.0,NA,NA,NA,NA
 2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",ONP,28.0,NA,NA,NA,NA
-2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",IND,10.0,NA,NA,NA,NA
-2026,15-20 May,15/5/2026,DemosAU,Capital Brief,Online,"1,502",OTH,10.0,NA,NA,NA,NA
-2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,23.0,NA,NA,NA,NA
 2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",ALP,28.0,NA,NA,NA,NA
+2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",LIB,23.0,NA,NA,NA,NA
+2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",NAT,23.0,NA,NA,NA,NA
 2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",ONP,25.0,NA,NA,NA,NA
-2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",IND,5.0,NA,NA,NA,NA
-2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,52.0,L/NP,48.0
 2026,12-19 May,12/5/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,53.0,ONP,47.0
-2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",L/NP,20.0,NA,NA,NA,NA
 2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",ALP,31.0,NA,NA,NA,NA
+2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",LIB,20.0,NA,NA,NA,NA
+2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",NAT,20.0,NA,NA,NA,NA
 2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",GRN,12.0,NA,NA,NA,NA
 2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",ONP,27.0,NA,NA,NA,NA
-2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",IND,10.0,NA,NA,NA,NA
-2026,14-17 May,14/5/2026,Newspoll,The Australian,Online,"1,252",OTH,10.0,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",ALP,29.5,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",LIB,21.0,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",NAT,3.0,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",GRN,11.5,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",ONP,24.5,NA,NA,NA,NA
-2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",IND,10.5,NA,NA,NA,NA
-2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",OTH,10.5,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",NA,NA,ALP,54.0,L/NP,46.0
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",NA,NA,ALP,54.0,ONP,46.0
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",L/NP,23.0,NA,NA,NA,NA
 2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ALP,29.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",LIB,23.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NAT,23.0,NA,NA,NA,NA
 2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",GRN,12.0,NA,NA,NA,NA
 2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ONP,24.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",IND,7.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",OTH,5.0,NA,NA,NA,NA
-2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",L/NP,25.0,NA,NA,NA,NA
 2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",ALP,29.0,NA,NA,NA,NA
+2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",LIB,25.0,NA,NA,NA,NA
+2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",NAT,25.0,NA,NA,NA,NA
 2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",GRN,11.0,NA,NA,NA,NA
 2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",ONP,26.0,NA,NA,NA,NA
-2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",IND,9.0,NA,NA,NA,NA
-2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",OTH,9.0,NA,NA,NA,NA
-2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",L/NP,16.5,NA,NA,NA,NA
 2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",ALP,28.5,NA,NA,NA,NA
+2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",LIB,16.5,NA,NA,NA,NA
+2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",NAT,16.5,NA,NA,NA,NA
 2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",GRN,11.5,NA,NA,NA,NA
 2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",ONP,32.0,NA,NA,NA,NA
-2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",IND,11.5,NA,NA,NA,NA
-2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",OTH,11.5,NA,NA,NA,NA
 2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",NA,NA,ALP,55.0,L/NP,45.0
 2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",NA,NA,ALP,51.0,ONP,49.0
 2026,13-14 May,13/5/2026,Roy Morgan,NA,SMS,"2,348",NA,NA,L/NP,49.0,ONP,51.0
-2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",L/NP,21.0,NA,NA,NA,NA
 2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",ALP,31.0,NA,NA,NA,NA
+2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",LIB,21.0,NA,NA,NA,NA
+2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",NAT,21.0,NA,NA,NA,NA
 2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",GRN,11.0,NA,NA,NA,NA
 2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",ONP,28.0,NA,NA,NA,NA
-2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",IND,9.0,NA,NA,NA,NA
-2026,29 Apr - 14 May,29/4/2026,RedBridge/Accent (MRP),Australian Financial Review,Online,"6,015",OTH,9.0,NA,NA,NA,NA
-2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",L/NP,24.0,NA,NA,NA,NA
 2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",ALP,30.0,NA,NA,NA,NA
+2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",LIB,24.0,NA,NA,NA,NA
+2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",NAT,24.0,NA,NA,NA,NA
 2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",GRN,11.0,NA,NA,NA,NA
 2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",ONP,22.0,NA,NA,NA,NA
-2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",IND,13.0,NA,NA,NA,NA
-2026,13 May,13/5/2026,Wolf & Smith,Amplify,Online,"1,002",OTH,13.0,NA,NA,NA,NA
 2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",ALP,30.5,NA,NA,NA,NA
 2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",LIB,21.0,NA,NA,NA,NA
 2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",NAT,4.0,NA,NA,NA,NA
 2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",GRN,11.5,NA,NA,NA,NA
 2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",ONP,22.0,NA,NA,NA,NA
-2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",IND,11.0,NA,NA,NA,NA
-2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",OTH,11.0,NA,NA,NA,NA
 2026,4-10 May,4/5/2026,Roy Morgan,NA,Online,"1,605",NA,NA,ALP,53.5,L/NP,46.5
-2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,21.0,NA,NA,NA,NA
 2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",ALP,30.0,NA,NA,NA,NA
+2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",LIB,21.0,NA,NA,NA,NA
+2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",NAT,21.0,NA,NA,NA,NA
 2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",GRN,14.0,NA,NA,NA,NA
 2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",ONP,24.0,NA,NA,NA,NA
-2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",IND,5.0,NA,NA,NA,NA
-2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,54.0,L/NP,46.0
 2026,28 Apr-5 May,28/4/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,57.0,ONP,43.0
 2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",ALP,29.5,NA,NA,NA,NA
@@ -424,44 +358,36 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",NAT,3.0,NA,NA,NA,NA
 2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",GRN,13.0,NA,NA,NA,NA
 2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",ONP,21.5,NA,NA,NA,NA
-2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",IND,12.0,NA,NA,NA,NA
-2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",OTH,12.0,NA,NA,NA,NA
 2026,27 Apr-3 May,27/4/2026,Roy Morgan,NA,Online,"1,681",NA,NA,ALP,54.5,L/NP,45.5
-2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",L/NP,22.0,NA,NA,NA,NA
 2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",ALP,31.0,NA,NA,NA,NA
+2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",LIB,22.0,NA,NA,NA,NA
+2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",NAT,22.0,NA,NA,NA,NA
 2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",GRN,13.0,NA,NA,NA,NA
 2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",ONP,27.0,NA,NA,NA,NA
-2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",IND,7.0,NA,NA,NA,NA
-2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",OTH,7.0,NA,NA,NA,NA
 2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",NA,NA,ALP,54.0,L/NP,46.0
 2026,24-30 Apr,24/4/2026,RedBridge/Accent,Australian Financial Review,Online,"1,014",NA,NA,ALP,55.0,ONP,45.0
-2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",L/NP,23.0,NA,NA,NA,NA
 2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",ALP,32.0,NA,NA,NA,NA
+2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",LIB,23.0,NA,NA,NA,NA
+2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",NAT,23.0,NA,NA,NA,NA
 2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",GRN,12.0,NA,NA,NA,NA
 2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",ONP,25.0,NA,NA,NA,NA
-2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",IND,8.0,NA,NA,NA,NA
-2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",OTH,8.0,NA,NA,NA,NA
 2026,28-30 Apr,28/4/2026,Freshwater,The Courier Mail,Online,"1,046",NA,NA,ALP,53.0,L/NP,47.0
-2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",L/NP,24.0,NA,NA,NA,NA
 2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",ALP,30.0,NA,NA,NA,NA
+2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",LIB,24.0,NA,NA,NA,NA
+2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",NAT,24.0,NA,NA,NA,NA
 2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",GRN,11.0,NA,NA,NA,NA
 2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",ONP,25.0,NA,NA,NA,NA
-2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",IND,10.0,NA,NA,NA,NA
-2026,22-27 Apr,22/4/2026,Essential,The Guardian,Online,"1,002",OTH,10.0,NA,NA,NA,NA
 2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",ALP,30.0,NA,NA,NA,NA
 2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",LIB,19.0,NA,NA,NA,NA
 2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",NAT,3.5,NA,NA,NA,NA
 2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",GRN,14.0,NA,NA,NA,NA
 2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",ONP,22.5,NA,NA,NA,NA
-2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",IND,11.0,NA,NA,NA,NA
-2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",OTH,11.0,NA,NA,NA,NA
 2026,20-26 Apr,20/4/2026,Roy Morgan,NA,Online,"1,587",NA,NA,ALP,54.5,L/NP,45.5
-2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,20.0,NA,NA,NA,NA
 2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",ALP,27.0,NA,NA,NA,NA
+2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",LIB,20.0,NA,NA,NA,NA
+2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",NAT,20.0,NA,NA,NA,NA
 2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",GRN,14.0,NA,NA,NA,NA
 2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",ONP,27.0,NA,NA,NA,NA
-2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",IND,5.0,NA,NA,NA,NA
-2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",OTH,7.0,NA,NA,NA,NA
 2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
 2026,14-21 Apr,14/4/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,52.0,ONP,48.0
 2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",ALP,30.5,NA,NA,NA,NA
@@ -469,50 +395,41 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",NAT,3.5,NA,NA,NA,NA
 2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",GRN,13.5,NA,NA,NA,NA
 2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",ONP,21.5,NA,NA,NA,NA
-2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",IND,11.5,NA,NA,NA,NA
-2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",OTH,11.5,NA,NA,NA,NA
 2026,13-19 Apr,13/4/2026,Roy Morgan,NA,Online,"1,620",NA,NA,ALP,55.5,L/NP,44.5
-2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",L/NP,21.0,NA,NA,NA,NA
 2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",ALP,31.0,NA,NA,NA,NA
+2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",LIB,21.0,NA,NA,NA,NA
+2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",NAT,21.0,NA,NA,NA,NA
 2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",GRN,13.0,NA,NA,NA,NA
 2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",ONP,24.0,NA,NA,NA,NA
-2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",IND,11.0,NA,NA,NA,NA
-2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",OTH,11.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",L/NP,23.0,NA,NA,NA,NA
 2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",ALP,32.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",LIB,23.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",NAT,23.0,NA,NA,NA,NA
 2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",GRN,12.0,NA,NA,NA,NA
 2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",ONP,22.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",IND,6.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",OTH,5.0,NA,NA,NA,NA
 2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",NA,NA,ALP,55.0,L/NP,45.0
-2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",L/NP,23.0,NA,NA,NA,NA
 2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",ALP,26.0,NA,NA,NA,NA
+2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",LIB,23.0,NA,NA,NA,NA
+2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",NAT,23.0,NA,NA,NA,NA
 2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",GRN,13.0,NA,NA,NA,NA
 2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",ONP,26.0,NA,NA,NA,NA
-2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",IND,12.0,NA,NA,NA,NA
-2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",OTH,12.0,NA,NA,NA,NA
 2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",ALP,30.0,NA,NA,NA,NA
 2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",LIB,19.5,NA,NA,NA,NA
 2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",NAT,3.0,NA,NA,NA,NA
 2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",GRN,12.5,NA,NA,NA,NA
 2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",ONP,24.5,NA,NA,NA,NA
-2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",IND,10.5,NA,NA,NA,NA
-2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",OTH,10.5,NA,NA,NA,NA
 2026,6-12 Apr,6/4/2026,Roy Morgan,NA,Online,"1,512",NA,NA,ALP,56.0,L/NP,44.0
-2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",L/NP,24.0,NA,NA,NA,NA
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",ALP,28.0,NA,NA,NA,NA
+2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",LIB,24.0,NA,NA,NA,NA
+2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",NAT,24.0,NA,NA,NA,NA
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",GRN,12.0,NA,NA,NA,NA
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",ONP,26.0,NA,NA,NA,NA
-2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",IND,10.0,NA,NA,NA,NA
-2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",OTH,10.0,NA,NA,NA,NA
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",NA,NA,ALP,51.0,L/NP,49.0
 2026,2-8 Apr,2/4/2026,Spectre Strategy,NA,Online,"1,002",NA,NA,ALP,52.0,ONP,48.0
-2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,20.0,NA,NA,NA,NA
 2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,30.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",LIB,20.0,NA,NA,NA,NA
+2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NAT,20.0,NA,NA,NA,NA
 2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",ONP,25.0,NA,NA,NA,NA
-2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",OTH,7.0,NA,NA,NA,NA
 2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,L/NP,45.0
 2026,31 Mar - 7 Apr,31/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,ONP,45.0
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",ALP,30.5,NA,NA,NA,NA
@@ -520,15 +437,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",NAT,4.0,NA,NA,NA,NA
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",GRN,12.0,NA,NA,NA,NA
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",ONP,21.5,NA,NA,NA,NA
-2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",IND,12.0,NA,NA,NA,NA
-2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",OTH,12.0,NA,NA,NA,NA
 2026,30 Mar-5 Apr,30/3/2026,Roy Morgan,NA,Online,"1,411",NA,NA,ALP,56.0,L/NP,44.0
-2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",L/NP,23.0,NA,NA,NA,NA
 2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",ALP,32.0,NA,NA,NA,NA
+2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",LIB,23.0,NA,NA,NA,NA
+2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",NAT,23.0,NA,NA,NA,NA
 2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",GRN,12.0,NA,NA,NA,NA
 2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",ONP,25.0,NA,NA,NA,NA
-2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",IND,8.0,NA,NA,NA,NA
-2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",OTH,8.0,NA,NA,NA,NA
 2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",NA,NA,ALP,51.0,L/NP,49.0
 2026,27-29 Mar,27/3/2026,Freshwater,News Australia,Online,"1,050",NA,NA,ALP,55.0,ONP,45.0
 2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",ALP,30.0,NA,NA,NA,NA
@@ -536,199 +450,163 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",NAT,3.0,NA,NA,NA,NA
 2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",GRN,13.5,NA,NA,NA,NA
 2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",ONP,23.5,NA,NA,NA,NA
-2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",IND,10.5,NA,NA,NA,NA
-2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",OTH,10.5,NA,NA,NA,NA
 2026,23-29 Mar,23/3/2026,Roy Morgan,NA,Online,"1,562",NA,NA,ALP,56.5,L/NP,43.5
-2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",L/NP,17.0,NA,NA,NA,NA
 2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",ALP,32.0,NA,NA,NA,NA
+2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",LIB,17.0,NA,NA,NA,NA
+2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",NAT,17.0,NA,NA,NA,NA
 2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",GRN,13.0,NA,NA,NA,NA
 2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",ONP,29.0,NA,NA,NA,NA
-2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",IND,9.0,NA,NA,NA,NA
-2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",OTH,9.0,NA,NA,NA,NA
 2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",NA,NA,ALP,53.0,L/NP,47.0
 2026,23-27 Mar,23/3/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",NA,NA,ALP,53.0,ONP,47.0
-2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",L/NP,21.0,NA,NA,NA,NA
 2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",ALP,31.0,NA,NA,NA,NA
+2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",LIB,21.0,NA,NA,NA,NA
+2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",NAT,21.0,NA,NA,NA,NA
 2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",GRN,12.0,NA,NA,NA,NA
 2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",ONP,26.0,NA,NA,NA,NA
-2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",IND,10.0,NA,NA,NA,NA
-2026,23-26 Mar,23/3/2026,Newspoll,The Australian,Online,"1,232",OTH,10.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",L/NP,23.0,NA,NA,NA,NA
 2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",ALP,30.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",LIB,23.0,NA,NA,NA,NA
+2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NAT,23.0,NA,NA,NA,NA
 2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",GRN,13.0,NA,NA,NA,NA
 2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",ONP,23.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",IND,11.0,NA,NA,NA,NA
-2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",OTH,11.0,NA,NA,NA,NA
 2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NA,NA,ALP,51.0,L/NP,49.0
 2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NA,NA,ALP,56.0,ONP,44.0
 2026,24-25 Mar,24/3/2026,Fox & Hedgehog,NA,Online,"1,810",NA,NA,L/NP,60.0,ONP,40.0
-2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,19.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,29.0,NA,NA,NA,NA
+2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",LIB,19.0,NA,NA,NA,NA
+2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",NAT,19.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",ONP,27.0,NA,NA,NA,NA
-2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,54.0,L/NP,46.0
 2026,17-24 Mar,17/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,53.0,ONP,47.0
-2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",L/NP,24.0,NA,NA,NA,NA
 2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",ALP,31.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",LIB,24.0,NA,NA,NA,NA
+2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",NAT,24.0,NA,NA,NA,NA
 2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",GRN,10.0,NA,NA,NA,NA
 2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",ONP,24.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",IND,12.0,NA,NA,NA,NA
-2026,18-23 Mar,18/3/2026,Essential,NA,Online,"1,008",OTH,12.0,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",ALP,27.0,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",LIB,21.5,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",NAT,4.0,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",GRN,13.5,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",ONP,23.5,NA,NA,NA,NA
-2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",IND,10.5,NA,NA,NA,NA
-2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",OTH,10.5,NA,NA,NA,NA
 2026,16-22 Mar,16/3/2026,Roy Morgan,NA,Online,"1,664",NA,NA,ALP,52.5,L/NP,47.5
-2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",L/NP,21.0,NA,NA,NA,NA
 2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",ALP,28.0,NA,NA,NA,NA
+2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",LIB,21.0,NA,NA,NA,NA
+2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",NAT,21.0,NA,NA,NA,NA
 2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",GRN,13.0,NA,NA,NA,NA
 2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",ONP,26.0,NA,NA,NA,NA
-2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",IND,5.0,NA,NA,NA,NA
-2026,12-19 Mar,12/3/2026,YouGov,The Australia Institute,Online,"1,502",OTH,6.0,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",ALP,28.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",LIB,20.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",NAT,3.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",GRN,12.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",ONP,22.5,NA,NA,NA,NA
-2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",IND,12.5,NA,NA,NA,NA
-2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",OTH,12.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",NA,NA,ALP,54.0,L/NP,46.0
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",L/NP,22.0,NA,NA,NA,NA
 2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",ALP,29.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",LIB,22.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",NAT,22.0,NA,NA,NA,NA
 2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",GRN,12.0,NA,NA,NA,NA
 2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",ONP,24.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",IND,8.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",OTH,5.0,NA,NA,NA,NA
-2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",L/NP,19.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,30.0,NA,NA,NA,NA
+2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",LIB,19.0,NA,NA,NA,NA
+2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",NAT,19.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",ONP,26.0,NA,NA,NA,NA
-2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",IND,5.0,NA,NA,NA,NA
-2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",OTH,7.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,L/NP,45.0
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,ONP,45.0
-2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",L/NP,22.5,NA,NA,NA,NA
 2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",ALP,26.5,NA,NA,NA,NA
+2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",LIB,22.5,NA,NA,NA,NA
+2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",NAT,22.5,NA,NA,NA,NA
 2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",GRN,14.5,NA,NA,NA,NA
 2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",ONP,23.5,NA,NA,NA,NA
-2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",IND,13.0,NA,NA,NA,NA
-2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",OTH,13.0,NA,NA,NA,NA
 2026,2-8 Mar,2/3/2026,Roy Morgan,NA,Online,"1,532",NA,NA,ALP,54.5,L/NP,45.5
-2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",L/NP,21.0,NA,NA,NA,NA
 2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",ALP,29.0,NA,NA,NA,NA
+2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",LIB,21.0,NA,NA,NA,NA
+2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",NAT,21.0,NA,NA,NA,NA
 2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",GRN,12.0,NA,NA,NA,NA
 2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",ONP,27.0,NA,NA,NA,NA
-2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",IND,11.0,NA,NA,NA,NA
-2026,13 Jan - 3 Mar,13/1/2026,DemosAU (MRP),NA,Online,"8,424",OTH,11.0,NA,NA,NA,NA
-2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",L/NP,23.5,NA,NA,NA,NA
 2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",ALP,30.5,NA,NA,NA,NA
+2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",LIB,23.5,NA,NA,NA,NA
+2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",NAT,23.5,NA,NA,NA,NA
 2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",GRN,11.5,NA,NA,NA,NA
 2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",ONP,22.0,NA,NA,NA,NA
-2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",IND,12.5,NA,NA,NA,NA
-2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",OTH,12.5,NA,NA,NA,NA
 2026,23 Feb - 1 Mar,23/2/2026,Roy Morgan,NA,Online,"1,554",NA,NA,ALP,56.0,L/NP,44.0
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ALP,32.0,NA,NA,NA,NA
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",LIB,13.0,NA,NA,NA,NA
-2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",LNP,4.0,NA,NA,NA,NA
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NAT,2.0,NA,NA,NA,NA
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",GRN,12.0,NA,NA,NA,NA
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",ONP,28.0,NA,NA,NA,NA
-2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",IND,9.0,NA,NA,NA,NA
-2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",OTH,9.0,NA,NA,NA,NA
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,54.0,L/NP,46.0
 2026,23-27 Feb,23/2/2026,RedBridge/Accent,Australian Financial Review,Online,"1,006",NA,NA,ALP,54.0,ONP,46.0
-2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",L/NP,20.0,NA,NA,NA,NA
 2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",ALP,32.0,NA,NA,NA,NA
+2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",LIB,20.0,NA,NA,NA,NA
+2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",NAT,20.0,NA,NA,NA,NA
 2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",GRN,11.0,NA,NA,NA,NA
 2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",ONP,27.0,NA,NA,NA,NA
-2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",IND,10.0,NA,NA,NA,NA
-2026,23-26 Feb,23/2/2026,Newspoll,The Australian,Online,"1,237",OTH,10.0,NA,NA,NA,NA
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",ALP,29.0,NA,NA,NA,NA
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",LIB,15.0,NA,NA,NA,NA
-2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",LNP,5.0,NA,NA,NA,NA
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",NAT,2.0,NA,NA,NA,NA
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",GRN,13.0,NA,NA,NA,NA
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",ONP,24.0,NA,NA,NA,NA
-2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,53.0,L/NP,47.0
 2026,17-24 Feb,17/2/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,56.0,ONP,44.0
-2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",L/NP,26.0,NA,NA,NA,NA
 2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",ALP,30.0,NA,NA,NA,NA
+2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",LIB,26.0,NA,NA,NA,NA
+2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",NAT,26.0,NA,NA,NA,NA
 2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",GRN,11.0,NA,NA,NA,NA
 2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",ONP,22.0,NA,NA,NA,NA
-2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",IND,11.0,NA,NA,NA,NA
-2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",OTH,11.0,NA,NA,NA,NA
 2026,18-23 Feb,18/2/2026,Essential,The Guardian,Online,"1,002",NA,NA,ALP,49.5,L/NP,50.5
-2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",L/NP,24.0,NA,NA,NA,NA
 2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",ALP,31.0,NA,NA,NA,NA
+2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",LIB,24.0,NA,NA,NA,NA
+2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",NAT,24.0,NA,NA,NA,NA
 2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",GRN,12.5,NA,NA,NA,NA
 2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",ONP,20.5,NA,NA,NA,NA
-2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",IND,12.0,NA,NA,NA,NA
-2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",OTH,12.0,NA,NA,NA,NA
 2026,16-22 Feb,16/2/2026,Roy Morgan,NA,Online,"1,649",NA,NA,ALP,54.0,L/NP,46.0
-2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",L/NP,21.0,NA,NA,NA,NA
 2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",ALP,29.0,NA,NA,NA,NA
+2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",LIB,21.0,NA,NA,NA,NA
+2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",NAT,21.0,NA,NA,NA,NA
 2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",GRN,12.0,NA,NA,NA,NA
 2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",ONP,28.0,NA,NA,NA,NA
-2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",IND,10.0,NA,NA,NA,NA
-2026,16-20 Feb,16/2/2026,DemosAU,Capital Brief,Online,"1,551",OTH,10.0,NA,NA,NA,NA
-2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",L/NP,24.0,NA,NA,NA,NA
 2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",ALP,30.0,NA,NA,NA,NA
+2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",LIB,24.0,NA,NA,NA,NA
+2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",NAT,24.0,NA,NA,NA,NA
 2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",GRN,12.0,NA,NA,NA,NA
 2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",ONP,25.0,NA,NA,NA,NA
-2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",IND,9.0,NA,NA,NA,NA
-2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",OTH,9.0,NA,NA,NA,NA
 2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",NA,NA,ALP,51.0,L/NP,49.0
 2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",NA,NA,ALP,53.0,ONP,47.0
 2026,17-19 Feb,17/2/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,625",NA,NA,L/NP,57.0,ONP,43.0
-2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,L/NP,23.5,NA,NA,NA,NA
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,ALP,32.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,LIB,23.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,NAT,23.5,NA,NA,NA,NA
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,GRN,12.5,NA,NA,NA,NA
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,ONP,21.5,NA,NA,NA,NA
-2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,IND,10.5,NA,NA,NA,NA
-2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,OTH,10.5,NA,NA,NA,NA
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,NA,NA,ALP,55.0,L/NP,45.0
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",L/NP,23.0,NA,NA,NA,NA
 2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ALP,32.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",LIB,23.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NAT,23.0,NA,NA,NA,NA
 2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",GRN,11.0,NA,NA,NA,NA
 2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ONP,23.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",IND,7.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",OTH,5.0,NA,NA,NA,NA
 2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NA,NA,ALP,55.0,L/NP,45.0
-2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",L/NP,20.0,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",ALP,30.5,NA,NA,NA,NA
+2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",LIB,20.0,NA,NA,NA,NA
+2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",NAT,20.0,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",GRN,13.0,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",ONP,25.0,NA,NA,NA,NA
-2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",IND,11.5,NA,NA,NA,NA
-2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",OTH,11.5,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",NA,NA,ALP,58.5,L/NP,41.5
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",L/NP,20.0,NA,NA,NA,NA
 2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ALP,31.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",LIB,20.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NAT,20.0,NA,NA,NA,NA
 2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",GRN,12.0,NA,NA,NA,NA
 2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ONP,25.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",IND,8.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",OTH,5.0,NA,NA,NA,NA
 2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NA,NA,ALP,55.0,L/NP,45.0
-2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",L/NP,17.0,NA,NA,NA,NA
 2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",ALP,34.0,NA,NA,NA,NA
+2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",LIB,17.0,NA,NA,NA,NA
+2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",NAT,17.0,NA,NA,NA,NA
 2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",GRN,11.0,NA,NA,NA,NA
 2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",ONP,28.0,NA,NA,NA,NA
-2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",IND,10.0,NA,NA,NA,NA
-2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",OTH,10.0,NA,NA,NA,NA
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",ALP,30.0,NA,NA,NA,NA
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",LIB,14.0,NA,NA,NA,NA
-2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",LNP,4.0,NA,NA,NA,NA
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",NAT,1.0,NA,NA,NA,NA
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",GRN,12.0,NA,NA,NA,NA
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",ONP,28.0,NA,NA,NA,NA
-2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",IND,5.0,NA,NA,NA,NA
-2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",OTH,6.0,NA,NA,NA,NA
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",NA,NA,ALP,54.0,L/NP,46.0
 2026,3-10 Feb,3/2/2026,YouGov,Sky News Australia,Online,"1,561",NA,NA,ALP,55.0,ONP,45.0
 2026,5-8 Feb,5/2/2026,Newspoll,The Australian,Online,"1,234",ALP,33.0,NA,NA,NA,NA
@@ -736,40 +614,29 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,5-8 Feb,5/2/2026,Newspoll,The Australian,Online,"1,234",NAT,3.0,NA,NA,NA,NA
 2026,5-8 Feb,5/2/2026,Newspoll,The Australian,Online,"1,234",GRN,12.0,NA,NA,NA,NA
 2026,5-8 Feb,5/2/2026,Newspoll,The Australian,Online,"1,234",ONP,27.0,NA,NA,NA,NA
-2026,5-8 Feb,5/2/2026,Newspoll,The Australian,Online,"1,234",IND,10.0,NA,NA,NA,NA
-2026,5-8 Feb,5/2/2026,Newspoll,The Australian,Online,"1,234",OTH,10.0,NA,NA,NA,NA
-2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",L/NP,22.5,NA,NA,NA,NA
 2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",ALP,28.5,NA,NA,NA,NA
+2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",LIB,22.5,NA,NA,NA,NA
+2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",NAT,22.5,NA,NA,NA,NA
 2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",GRN,13.5,NA,NA,NA,NA
 2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",ONP,24.5,NA,NA,NA,NA
-2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",IND,11.0,NA,NA,NA,NA
-2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",OTH,11.0,NA,NA,NA,NA
 2026,2-8 Feb,2/2/2026,Roy Morgan,NA,Online,"1,584",NA,NA,ALP,53.5,L/NP,46.5
 2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",ALP,30.5,NA,NA,NA,NA
 2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",LIB,18.0,NA,NA,NA,NA
 2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",NAT,2.5,NA,NA,NA,NA
 2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",GRN,12.5,NA,NA,NA,NA
 2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",ONP,25.0,NA,NA,NA,NA
-2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",IND,11.5,NA,NA,NA,NA
-2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",OTH,11.5,NA,NA,NA,NA
 2026,26 Jan - 1 Feb,26/1/2026,Roy Morgan,NA,Online,"1,401",NA,NA,ALP,56.0,L/NP,44.0
 2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",ALP,34.0,NA,NA,NA,NA
 2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",LIB,13.0,NA,NA,NA,NA
-2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",LNP,4.0,NA,NA,NA,NA
 2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",NAT,2.0,NA,NA,NA,NA
 2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",GRN,11.0,NA,NA,NA,NA
 2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",ONP,26.0,NA,NA,NA,NA
-2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",IND,10.0,NA,NA,NA,NA
-2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",OTH,10.0,NA,NA,NA,NA
 2026,22-29 Jan,22/1/2026,RedBridge/Accent,Australian Financial Review,Online,"1,003",NA,NA,ALP,56.0,L/NP,44.0
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",ALP,31.0,NA,NA,NA,NA
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",LIB,14.0,NA,NA,NA,NA
-2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",LNP,4.0,NA,NA,NA,NA
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",NAT,2.0,NA,NA,NA,NA
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",GRN,12.0,NA,NA,NA,NA
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",ONP,25.0,NA,NA,NA,NA
-2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",IND,6.0,NA,NA,NA,NA
-2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",OTH,6.0,NA,NA,NA,NA
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,55.0,L/NP,45.0
 2026,20-27 Jan,20/1/2026,YouGov,Sky News Australia,Online,"1,500",NA,NA,ALP,57.0,ONP,43.0
 2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",ALP,30.5,NA,NA,NA,NA
@@ -777,27 +644,22 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",NAT,2.5,NA,NA,NA,NA
 2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",GRN,13.0,NA,NA,NA,NA
 2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",ONP,22.5,NA,NA,NA,NA
-2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",IND,11.5,NA,NA,NA,NA
-2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",OTH,11.5,NA,NA,NA,NA
 2026,19-25 Jan,19/1/2026,Roy Morgan,NA,Online,"1,933",NA,NA,ALP,56.5,L/NP,43.5
-2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",L/NP,25.0,NA,NA,NA,NA
 2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",ALP,31.0,NA,NA,NA,NA
+2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",LIB,25.0,NA,NA,NA,NA
+2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",NAT,25.0,NA,NA,NA,NA
 2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",GRN,9.0,NA,NA,NA,NA
 2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",ONP,22.0,NA,NA,NA,NA
-2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",IND,13.0,NA,NA,NA,NA
-2026,20-23 Jan,20/1/2026,Essential,The Guardian,Online,"1,022",OTH,13.0,NA,NA,NA,NA
-2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",L/NP,21.0,NA,NA,NA,NA
 2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",ALP,30.0,NA,NA,NA,NA
+2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",LIB,21.0,NA,NA,NA,NA
+2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",NAT,21.0,NA,NA,NA,NA
 2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",GRN,13.0,NA,NA,NA,NA
 2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",ONP,24.0,NA,NA,NA,NA
-2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",IND,12.0,NA,NA,NA,NA
-2026,13-21 Jan,13/1/2026,DemosAU,Capital Brief,Online,"1,933",OTH,12.0,NA,NA,NA,NA
-2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",L/NP,28.0,NA,NA,NA,NA
 2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",ALP,33.0,NA,NA,NA,NA
+2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",LIB,28.0,NA,NA,NA,NA
+2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",NAT,28.0,NA,NA,NA,NA
 2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",GRN,11.0,NA,NA,NA,NA
 2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",ONP,19.0,NA,NA,NA,NA
-2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",IND,9.0,NA,NA,NA,NA
-2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",OTH,9.0,NA,NA,NA,NA
 2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",NA,NA,ALP,53.0,L/NP,47.0
 2026,16-18 Jan,16/1/2026,Freshwater,Herald Sun,Online,"1,050",NA,NA,ALP,57.0,ONP,43.0
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",ALP,28.5,NA,NA,NA,NA
@@ -805,54 +667,45 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",NAT,2.0,NA,NA,NA,NA
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",GRN,13.5,NA,NA,NA,NA
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",ONP,21.0,NA,NA,NA,NA
-2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",IND,13.0,NA,NA,NA,NA
-2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",OTH,13.0,NA,NA,NA,NA
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",NA,NA,ALP,53.5,L/NP,46.5
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",L/NP,28.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ALP,30.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",LIB,28.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NAT,28.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",GRN,10.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ONP,18.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",IND,7.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",OTH,7.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NA,NA,ALP,52.0,L/NP,48.0
-2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",L/NP,21.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",ALP,32.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",LIB,21.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",NAT,21.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",GRN,12.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",ONP,22.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",IND,13.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",OTH,13.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",NA,NA,ALP,55.0,L/NP,45.0
 2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",ALP,30.0,NA,NA,NA,NA
 2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",LIB,28.0,NA,NA,NA,NA
 2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",NAT,2.5,NA,NA,NA,NA
 2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",GRN,13.5,NA,NA,NA,NA
 2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",ONP,15.0,NA,NA,NA,NA
-2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",IND,11.0,NA,NA,NA,NA
-2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",OTH,11.0,NA,NA,NA,NA
 2026,5-11 Jan,5/1/2026,Roy Morgan,NA,Online,"1,676",NA,NA,ALP,52.0,L/NP,48.0
-2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",L/NP,25.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",ALP,29.0,NA,NA,NA,NA
+2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",LIB,25.0,NA,NA,NA,NA
+2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",NAT,25.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",GRN,14.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",ONP,21.0,NA,NA,NA,NA
-2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",IND,11.0,NA,NA,NA,NA
-2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",OTH,11.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",NA,NA,ALP,53.0,L/NP,47.0
 2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",NA,NA,ALP,56.0,ONP,44.0
 2026,5-6 Jan,5/1/2026,Fox & Hedgehog,The Daily Telegraph,Online,"1,608",NA,NA,L/NP,63.0,ONP,37.0
-2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",L/NP,23.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",ALP,29.0,NA,NA,NA,NA
+2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",LIB,23.0,NA,NA,NA,NA
+2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",NAT,23.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",GRN,12.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",ONP,23.0,NA,NA,NA,NA
-2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",IND,13.0,NA,NA,NA,NA
-2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",OTH,13.0,NA,NA,NA,NA
 2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",NA,NA,ALP,52.0,L/NP,48.0
 2026,5-6 Jan,5/1/2026,DemosAU,Capital Brief,Online,"1,027",NA,NA,ALP,50.0,ONP,50.0
-2026,3 May 2025,3/5/2026,Election,Election,Election,Election,L/NP,31.8,NA,NA,NA,NA
 2026,3 May 2025,3/5/2026,Election,Election,Election,Election,ALP,34.6,NA,NA,NA,NA
+2026,3 May 2025,3/5/2026,Election,Election,Election,Election,LIB,31.8,NA,NA,NA,NA
+2026,3 May 2025,3/5/2026,Election,Election,Election,Election,NAT,31.8,NA,NA,NA,NA
 2026,3 May 2025,3/5/2026,Election,Election,Election,Election,GRN,12.2,NA,NA,NA,NA
 2026,3 May 2025,3/5/2026,Election,Election,Election,Election,ONP,6.4,NA,NA,NA,NA
-2026,3 May 2025,3/5/2026,Election,Election,Election,Election,IND,7.4,NA,NA,NA,NA
-2026,3 May 2025,3/5/2026,Election,Election,Election,Election,OTH,7.6,NA,NA,NA,NA
 2026,3 May 2025,3/5/2026,Election,Election,Election,Election,NA,NA,ALP,55.2,L/NP,44.8
 2025,16-23 Dec,16/12/2025,YouGov,Sky News Australia,Online,"1,869",ALP,30.0,NA,NA,NA,NA
 2025,16-23 Dec,16/12/2025,YouGov,Sky News Australia,Online,"1,869",L/NP,24.0,NA,NA,NA,NA
