@@ -281,7 +281,10 @@ def classify_columns(grid, num_rows, num_cols):
         in_tpp     = any("2pp" in lbl for lbl in chain_lower)
 
         leaf = chain[-1].strip() if chain else ""
-        party_code = HEADER_TO_PARTY.get(leaf.lower())
+        # Strip footnote markers (e.g. "[a]", "[1]") and trailing whitespace
+        # before lookup so "Others [a]" correctly maps to "OTH"
+        leaf_clean = re.sub(r"\[.*?\]", "", leaf).strip()
+        party_code = HEADER_TO_PARTY.get(leaf_clean.lower())
         if party_code is None:
             continue
 
