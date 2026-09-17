@@ -37,15 +37,16 @@ URL = (
 )
 
 HEADER_TO_PARTY = {
-    "alp":  "ALP",
-    "lib":  "LIB",
-    "lnp":  "LNP",
-    "nat":  "NAT",
-    "grn":  "GRN",
-    "onp":  "ONP",
-    "ind":  "IND",
-    "oth":  "OTH",
-    "l/np": "L/NP",
+    "alp":    "ALP",
+    "lib":    "LIB",
+    "lnp":    "LNP",
+    "nat":    "NAT",
+    "grn":    "GRN",
+    "onp":    "ONP",
+    "ind":    "IND",    # 2025 table — will be merged into OTH in post-processing
+    "oth":    "OTH",
+    "others": "OTH",   # 2026 table uses "Others" header
+    "l/np":   "L/NP",
 }
 
 OUTPUT_FIELDS = [
@@ -568,39 +569,79 @@ def parse_table(table, year):
         # recorded for this poll.
         poll_key = (year, date, firm)
 
-        # Detect a merged L/NP cell: if LIB, LNP, and NAT all have columns
-        # AND their raw (pre-parse) cell text is identical and non-null,
-        # the value was reported as a single combined L/NP figure via a
-        # colspan cell (which our row-expansion duplicates across all three
-        # underlying columns). In that case, emit ONE 'L/NP' row instead of
-        # three separate LIB/LNP/NAT rows with the same value.
+        # ── Merged LNP detection ──────────────────────────────────────────
+        # The 2026 table has a three-level header: "L/NP" spans "LIB" and
+        # "NAT" sub-columns. When a pollster reports a single combined value,
+        # Wikipedia uses a colspan cell whose text is duplicated across all
+        # three underlying column positions by our row-expansion logic.
+        # We detect this by checking whether LIB, LNP (or L/NP), and NAT
+        # columns all contain the identical non-null value, and if so emit
+        # ONE "LNP" row instead of three duplicates.
+        #
+        # When the pollster reports separate LIB and NAT values, the three
+        # raw cell texts will differ, so we fall through to the normal
+        # per-party loop which emits individual LIB and NAT rows.
+
         merged_lnp_val = None
-        lnp_trio = ["LIB", "LNP", "NAT"]
-        if all(p in pv_cols for p in lnp_trio):
-            idxs = [pv_cols[p] for p in lnp_trio]
+
+        # Candidates: the trio of sub-columns under the L/NP parent header.
+        # The header may spell the parent as "LNP" or "L/NP" depending on
+        # the year; sub-columns are always "LIB" and "NAT".
+        lnp_parent = "LNP" if "LNP" in pv_cols else ("L/NP" if "L/NP" in pv_cols else None)
+        lnp_trio = [p for p in ["LIB", lnp_parent, "NAT"] if p is not None]
+
+        if lnp_parent and all(p in pv_cols for p in lnp_trio):
+            idxs     = [pv_cols[p] for p in lnp_trio]
             if all(i < len(cells) for i in idxs):
                 raw_vals = [fix_encoding(cells[i]).strip() for i in idxs]
                 parsed   = [parse_pct(cells[i]) for i in idxs]
-                # All three raw strings identical, non-null, and parseable
+                # All positions share identical non-null text → merged cell
                 if (len(set(raw_vals)) == 1
                         and parsed[0] is not None
                         and all(p == parsed[0] for p in parsed)):
                     merged_lnp_val = parsed[0]
 
         if merged_lnp_val is not None:
-            rec_key = (poll_key, "L/NP")
+            rec_key = (poll_key, "LNP")
             if rec_key not in seen_pv:
                 seen_pv.add(rec_key)
-                # Mark LIB/LNP/NAT as seen too, so they're skipped below
+                # Mark all trio members as seen so they're skipped below
                 for p in lnp_trio:
                     seen_pv.add((poll_key, p))
                 records.append({
                     **base,
-                    "pv_party": "L/NP", "pv_prop": merged_lnp_val,
+                    "pv_party": "LNP", "pv_prop": merged_lnp_val,
                     "2pp_party_1": "NA", "2pp_party_1_prop": "NA",
                     "2pp_party_2": "NA", "2pp_party_2_prop": "NA",
                 })
 
+        # ── IND + OTH combining (2025 table) ─────────────────────────────
+        # The 2025 table has separate IND and OTH columns. Combine them
+        # into a single OTH row (sum the proportions).
+        ind_val = None
+        oth_val = None
+        if "IND" in pv_cols and "OTH" in pv_cols:
+            ind_ci = pv_cols["IND"]
+            oth_ci = pv_cols["OTH"]
+            if ind_ci < len(cells) and oth_ci < len(cells):
+                ind_val = parse_pct(cells[ind_ci])
+                oth_val = parse_pct(cells[oth_ci])
+
+        combine_ind_oth = (ind_val is not None or oth_val is not None)
+        if combine_ind_oth:
+            combined = (ind_val or 0) + (oth_val or 0)
+            rec_key = (poll_key, "OTH")
+            if rec_key not in seen_pv:
+                seen_pv.add(rec_key)
+                seen_pv.add((poll_key, "IND"))  # skip IND in main loop
+                records.append({
+                    **base,
+                    "pv_party": "OTH", "pv_prop": round(combined, 1),
+                    "2pp_party_1": "NA", "2pp_party_1_prop": "NA",
+                    "2pp_party_2": "NA", "2pp_party_2_prop": "NA",
+                })
+
+        # ── Main per-party loop ───────────────────────────────────────────
         for party, ci in sorted(pv_cols.items(), key=lambda x: x[1]):
             if ci >= len(cells):
                 continue
@@ -609,11 +650,13 @@ def parse_table(table, year):
                 continue
             rec_key = (poll_key, party)
             if rec_key in seen_pv:
-                continue          # already recorded this party for this poll
+                continue          # already recorded (merged LNP, combined OTH, or dupe)
             seen_pv.add(rec_key)
+            # Remap IND -> OTH for any table that only has IND with no separate OTH
+            emit_party = "OTH" if party == "IND" else party
             records.append({
                 **base,
-                "pv_party": party, "pv_prop": val,
+                "pv_party": emit_party, "pv_prop": val,
                 "2pp_party_1": "NA", "2pp_party_1_prop": "NA",
                 "2pp_party_2": "NA", "2pp_party_2_prop": "NA",
             })
