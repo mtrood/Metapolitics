@@ -1,4 +1,10 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",ALP,27.0,NA,NA,NA,NA
+2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",LIB,19.0,NA,NA,NA,NA
+2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",NAT,19.0,NA,NA,NA,NA
+2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",GRN,13.0,NA,NA,NA,NA
+2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",ONP,30.0,NA,NA,NA,NA
+2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",OTH,11.0,NA,NA,NA,NA
 2026,10-14 Sept,10/9/2026,DemosAU,Capital Brief,Online,"1,583",ALP,28.0,NA,NA,NA,NA
 2026,10-14 Sept,10/9/2026,DemosAU,Capital Brief,Online,"1,583",LIB,20.0,NA,NA,NA,NA
 2026,10-14 Sept,10/9/2026,DemosAU,Capital Brief,Online,"1,583",NAT,20.0,NA,NA,NA,NA
