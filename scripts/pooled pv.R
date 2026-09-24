@@ -62,6 +62,7 @@ df_clean <- df_raw %>%
     poll_id = cur_group_id(),
     pv_collapse =  case_when(
       any(pv_party == "NAT") |  any(pv_party == 'LIB') ~ TRUE,
+      T ~ F
     ) 
   )%>%
   ungroup()
@@ -77,17 +78,25 @@ LNP_target_rows <- df_clean %>%
            is.na(`2pp_party_1`))
 
 df_clean_pv_coll <- LNP_target_rows %>%
-  # Combine LIB and NAT PVs
+  
+  # If a merged LIB/NAT/LNP value already exists, use that, otherwise combine LIB and NAT PVs
   group_by(Year, Date, Date_lb, Polling.firm, Client, Interview.mode, Sample.size, poll_id,date_floor, week_floor) %>%
-  summarise(
-    pv_prop_recode = sum(pv_prop),
-    pv_n = sum(pv_n)
-  ) %>%
-  ungroup()%>%
-  # Add pv_party variable
   mutate(
+    n = n(),
+    pv_prop_recode = case_when(
+      n > 1 & all(pv_prop == max(pv_prop)) ~ pv_prop,
+      n > 1 & any(pv_prop != max(pv_prop)) ~ sum(pv_prop, na.rm = T),
+      T ~ pv_prop
+      ),
+    pv_n_recode = case_when(
+      n > 1 & all(pv_n == max(pv_n)) ~ pv_n,
+      n > 1 & any(pv_n != max(pv_n)) ~ sum(pv_n, na.rm = T),
+      T ~ pv_n, 
+    ),
     pv_party = 'LNP'
-  )
+  ) %>%
+  slice(1)%>%
+  ungroup() 
 
 df_bound <- df_clean %>%
   filter(!row_id %in% LNP_target_rows$row_id) %>%
@@ -171,7 +180,7 @@ uni_model_list <- lapply(
     
     # Lapply a meta-analysis to each primary vote in each party
     month_model_list <- lapply(
-      c("ALP","ONP","LNP", "GRN", "IND"), function(party){
+      c("ALP","ONP","LNP", "GRN", "OTH"), function(party){
         # Filter part rows 
         analysis_df = rolling_df[rolling_df$pv_party %in% party,]
         
@@ -239,7 +248,7 @@ mod_df_all <- do.call(rbind, lapply(uni_flat, `[[`, 2))
 election_df <- df_clean %>%
   filter(
     election == TRUE,
-    pv_party %in% c("ALP", "LNP", "GRN", "ONP", "IND")
+    pv_party %in% c("ALP", "LNP", "GRN", "ONP", "OTH")
   ) %>%
   select(pv_party, pv_prop, Date_lb) %>%
   mutate(pv_prop = pv_prop * .01) %>%
@@ -255,14 +264,13 @@ party_colours <- c(
   LNP = "#377EB8",   # blue
   ONP = "#FF7F00",   # orange
   GRN = "#4DAF4A",   # green
-  IND = "#888888"    # grey
+  OTH = "#888888"    # grey
 )
 
 # Faded versions for the raw-poll dots (alpha handled in geom, but we keep
 # the same hue so the mapping is identical)
 party_colours_faded <- scales::alpha(party_colours, 0.35)
 names(party_colours_faded) <- names(party_colours)
-
 
 # 4) Amend data for plot -------------------------------------------------------
 # Create upper scale limit
@@ -424,7 +432,7 @@ labs(
     colour = "grey80",
     fontface = "bold"
   )
-p
+
 # ── 5. Save  -----------------------------------------------------------------
 out_address <- paste("output/figures/poll_plot ", max(df_clean$Date_lb), ".png", sep = '')
 ggsave(out_address, plot = p, width = 10, height = 6, dpi = 150)
