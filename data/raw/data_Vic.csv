@@ -1,0 +1,675 @@
+Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",OTH,11.0,NA,NA,NA,NA
+2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",ALP,24.0,NA,NA,NA,NA
+2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",L/NP,29.0,NA,NA,NA,NA
+2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",GRN,14.0,NA,NA,NA,NA
+2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",ONP,22.0,NA,NA,NA,NA
+2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",NA,NA,ALP,47.0,L/NP,53.0
+2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",OTH,11.0,NA,NA,NA,NA
+2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",ALP,25.0,NA,NA,NA,NA
+2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",L/NP,30.0,NA,NA,NA,NA
+2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",GRN,14.0,NA,NA,NA,NA
+2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",ONP,20.0,NA,NA,NA,NA
+2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",NA,NA,ALP,48.0,L/NP,52.0
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",OTH,7.0,NA,NA,NA,NA
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",ALP,24.0,NA,NA,NA,NA
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",L/NP,29.0,NA,NA,NA,NA
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",GRN,15.0,NA,NA,NA,NA
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",ONP,25.0,NA,NA,NA,NA
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",NA,NA,ALP,44.0,L/NP,56.0
+2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",NA,NA,ALP,53.0,ONP,47.0
+2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",OTH,13.0,NA,NA,NA,NA
+2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",ALP,25.0,NA,NA,NA,NA
+2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",L/NP,28.0,NA,NA,NA,NA
+2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
+2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",ONP,23.0,NA,NA,NA,NA
+2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",OTH,13.0,NA,NA,NA,NA
+2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",ALP,25.0,NA,NA,NA,NA
+2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",L/NP,27.0,NA,NA,NA,NA
+2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
+2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",ONP,23.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,"1,007",OTH,10.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,"1,007",ALP,23.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,"1,007",L/NP,32.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,"1,007",GRN,13.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,"1,007",ONP,22.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,"1,007",NA,NA,ALP,45.0,L/NP,55.0
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",OTH,12.0,NA,NA,NA,NA
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",ALP,26.0,NA,NA,NA,NA
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",L/NP,26.0,NA,NA,NA,NA
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",GRN,12.5,NA,NA,NA,NA
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",ONP,23.5,NA,NA,NA,NA
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",NA,NA,ALP,49.0,L/NP,51.0
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",NA,NA,ALP,56.0,ONP,44.0
+2026,5 Aug-7 Aug,5/8/2026,Roy Morgan,NA,,"2,084",NA,NA,L/NP,63.5,ONP,36.5
+2026,31 Jul-3 Aug,31/7/2026,Freshwater,Herald Sun,,"1,020",OTH,9.0,NA,NA,NA,NA
+2026,31 Jul-3 Aug,31/7/2026,Freshwater,Herald Sun,,"1,020",ALP,25.0,NA,NA,NA,NA
+2026,31 Jul-3 Aug,31/7/2026,Freshwater,Herald Sun,,"1,020",L/NP,30.0,NA,NA,NA,NA
+2026,31 Jul-3 Aug,31/7/2026,Freshwater,Herald Sun,,"1,020",GRN,14.0,NA,NA,NA,NA
+2026,31 Jul-3 Aug,31/7/2026,Freshwater,Herald Sun,,"1,020",ONP,22.0,NA,NA,NA,NA
+2026,31 Jul-3 Aug,31/7/2026,Freshwater,Herald Sun,,"1,020",NA,NA,ALP,48.0,L/NP,52.0
+2026,28 Jul-1 Aug,28/7/2026,RedBridge/Accent,Australian Financial Review,,"1,014",OTH,11.0,NA,NA,NA,NA
+2026,28 Jul-1 Aug,28/7/2026,RedBridge/Accent,Australian Financial Review,,"1,014",ALP,23.0,NA,NA,NA,NA
+2026,28 Jul-1 Aug,28/7/2026,RedBridge/Accent,Australian Financial Review,,"1,014",L/NP,30.0,NA,NA,NA,NA
+2026,28 Jul-1 Aug,28/7/2026,RedBridge/Accent,Australian Financial Review,,"1,014",GRN,14.0,NA,NA,NA,NA
+2026,28 Jul-1 Aug,28/7/2026,RedBridge/Accent,Australian Financial Review,,"1,014",ONP,22.0,NA,NA,NA,NA
+2026,28 Jul-1 Aug,28/7/2026,RedBridge/Accent,Australian Financial Review,,"1,014",NA,NA,ALP,43.0,L/NP,57.0
+2026,16 Jun - 10 July,16/6/2026,YouGov (MRP),NA,,"4,003",OTH,14.0,NA,NA,NA,NA
+2026,16 Jun - 10 July,16/6/2026,YouGov (MRP),NA,,"4,003",ALP,23.0,NA,NA,NA,NA
+2026,16 Jun - 10 July,16/6/2026,YouGov (MRP),NA,,"4,003",L/NP,26.0,NA,NA,NA,NA
+2026,16 Jun - 10 July,16/6/2026,YouGov (MRP),NA,,"4,003",GRN,13.0,NA,NA,NA,NA
+2026,16 Jun - 10 July,16/6/2026,YouGov (MRP),NA,,"4,003",ONP,24.0,NA,NA,NA,NA
+2026,16 Jun - 10 July,16/6/2026,YouGov (MRP),NA,,"4,003",NA,NA,ALP,46.2,L/NP,53.8
+2026,23-26 July,23/7/2026,Newspoll,The Australian,,"1,035",OTH,9.0,NA,NA,NA,NA
+2026,23-26 July,23/7/2026,Newspoll,The Australian,,"1,035",ALP,28.0,NA,NA,NA,NA
+2026,23-26 July,23/7/2026,Newspoll,The Australian,,"1,035",L/NP,31.0,NA,NA,NA,NA
+2026,23-26 July,23/7/2026,Newspoll,The Australian,,"1,035",GRN,13.0,NA,NA,NA,NA
+2026,23-26 July,23/7/2026,Newspoll,The Australian,,"1,035",ONP,19.0,NA,NA,NA,NA
+2026,23-26 July,23/7/2026,Newspoll,The Australian,,"1,035",NA,NA,ALP,48.0,L/NP,52.0
+2026,14 July,14/7/2026,RedBridge/Accent,Australian Financial Review,,"6,500",OTH,8.0,NA,NA,NA,NA
+2026,14 July,14/7/2026,RedBridge/Accent,Australian Financial Review,,"6,500",ALP,26.0,NA,NA,NA,NA
+2026,14 July,14/7/2026,RedBridge/Accent,Australian Financial Review,,"6,500",L/NP,26.0,NA,NA,NA,NA
+2026,14 July,14/7/2026,RedBridge/Accent,Australian Financial Review,,"6,500",GRN,12.0,NA,NA,NA,NA
+2026,14 July,14/7/2026,RedBridge/Accent,Australian Financial Review,,"6,500",ONP,27.0,NA,NA,NA,NA
+2026,12 July,12/7/2026,Resolve,The Age,,"1,000",OTH,12.0,NA,NA,NA,NA
+2026,12 July,12/7/2026,Resolve,The Age,,"1,000",ALP,27.0,NA,NA,NA,NA
+2026,12 July,12/7/2026,Resolve,The Age,,"1,000",L/NP,27.0,NA,NA,NA,NA
+2026,12 July,12/7/2026,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
+2026,12 July,12/7/2026,Resolve,The Age,,"1,000",ONP,22.0,NA,NA,NA,NA
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",OTH,8.0,NA,NA,NA,NA
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",ALP,26.0,NA,NA,NA,NA
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",L/NP,26.0,NA,NA,NA,NA
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",GRN,13.0,NA,NA,NA,NA
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",ONP,27.0,NA,NA,NA,NA
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",NA,NA,ALP,46.0,L/NP,54.0
+2026,17-28 June,17/6/2026,RedBridge/Accent,Australian Financial Review,,"5,516",NA,NA,ALP,52.0,ONP,48.0
+2026,May - Jun,,Resolve,The Age,,"~1,000",OTH,12.0,NA,NA,NA,NA
+2026,May - Jun,,Resolve,The Age,,"~1,000",ALP,26.0,NA,NA,NA,NA
+2026,May - Jun,,Resolve,The Age,,"~1,000",L/NP,26.0,NA,NA,NA,NA
+2026,May - Jun,,Resolve,The Age,,"~1,000",GRN,12.0,NA,NA,NA,NA
+2026,May - Jun,,Resolve,The Age,,"~1,000",ONP,24.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,"1,056",OTH,11.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,"1,056",ALP,21.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,"1,056",L/NP,30.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,"1,056",GRN,15.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,"1,056",ONP,23.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,"1,056",NA,NA,ALP,45.0,L/NP,55.0
+2026,5-8 Jun,5/6/2026,Freshwater,Herald Sun,,"1,034",OTH,9.0,NA,NA,NA,NA
+2026,5-8 Jun,5/6/2026,Freshwater,Herald Sun,,"1,034",ALP,23.0,NA,NA,NA,NA
+2026,5-8 Jun,5/6/2026,Freshwater,Herald Sun,,"1,034",L/NP,27.0,NA,NA,NA,NA
+2026,5-8 Jun,5/6/2026,Freshwater,Herald Sun,,"1,034",GRN,14.0,NA,NA,NA,NA
+2026,5-8 Jun,5/6/2026,Freshwater,Herald Sun,,"1,034",ONP,25.0,NA,NA,NA,NA
+2026,5-8 Jun,5/6/2026,Freshwater,Herald Sun,,"1,034",NA,NA,ALP,47.0,L/NP,53.0
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",OTH,12.5,NA,NA,NA,NA
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",ALP,25.5,NA,NA,NA,NA
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",L/NP,24.0,NA,NA,NA,NA
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",GRN,13.5,NA,NA,NA,NA
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",ONP,24.5,NA,NA,NA,NA
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",NA,NA,ALP,51.0,L/NP,49.0
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",NA,NA,ALP,53.5,ONP,46.5
+2026,22-24 April,22/4/2026,Roy Morgan,NA,,"1,707",NA,NA,L/NP,59.0,ONP,41.0
+2026,Mar - Apr,,Resolve,The Age,,"1,047",OTH,13.0,NA,NA,NA,NA
+2026,Mar - Apr,,Resolve,The Age,,"1,047",ALP,27.0,NA,NA,NA,NA
+2026,Mar - Apr,,Resolve,The Age,,"1,047",L/NP,29.0,NA,NA,NA,NA
+2026,Mar - Apr,,Resolve,The Age,,"1,047",GRN,10.0,NA,NA,NA,NA
+2026,Mar - Apr,,Resolve,The Age,,"1,047",ONP,21.0,NA,NA,NA,NA
+2026,19-23 Mar,19/3/2026,Freshwater,Herald Sun,,"1,062",OTH,9.0,NA,NA,NA,NA
+2026,19-23 Mar,19/3/2026,Freshwater,Herald Sun,,"1,062",ALP,27.0,NA,NA,NA,NA
+2026,19-23 Mar,19/3/2026,Freshwater,Herald Sun,,"1,062",L/NP,30.0,NA,NA,NA,NA
+2026,19-23 Mar,19/3/2026,Freshwater,Herald Sun,,"1,062",GRN,14.0,NA,NA,NA,NA
+2026,19-23 Mar,19/3/2026,Freshwater,Herald Sun,,"1,062",ONP,20.0,NA,NA,NA,NA
+2026,19-23 Mar,19/3/2026,Freshwater,Herald Sun,,"1,062",NA,NA,ALP,48.0,L/NP,52.0
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",OTH,10.0,NA,NA,NA,NA
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",ALP,25.0,NA,NA,NA,NA
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",L/NP,28.0,NA,NA,NA,NA
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",GRN,13.0,NA,NA,NA,NA
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",ONP,24.0,NA,NA,NA,NA
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",NA,NA,ALP,48.0,L/NP,52.0
+2026,18-27 Feb,18/2/2026,RedBridge/Accent,NA,,"2,165",NA,NA,ALP,53.0,ONP,47.0
+2026,19-23 Feb,19/2/2026,Freshwater,Herald Sun,,"1,030",OTH,9.0,NA,NA,NA,NA
+2026,19-23 Feb,19/2/2026,Freshwater,Herald Sun,,"1,030",ALP,28.0,NA,NA,NA,NA
+2026,19-23 Feb,19/2/2026,Freshwater,Herald Sun,,"1,030",L/NP,27.0,NA,NA,NA,NA
+2026,19-23 Feb,19/2/2026,Freshwater,Herald Sun,,"1,030",GRN,13.0,NA,NA,NA,NA
+2026,19-23 Feb,19/2/2026,Freshwater,Herald Sun,,"1,030",ONP,23.0,NA,NA,NA,NA
+2026,19-23 Feb,19/2/2026,Freshwater,Herald Sun,,"1,030",NA,NA,ALP,50.0,L/NP,50.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",OTH,13.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",ALP,25.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",L/NP,21.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",GRN,13.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",ONP,26.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",NA,NA,ALP,52.0,L/NP,48.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",NA,NA,ALP,52.5,ONP,47.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,"2,462",NA,NA,L/NP,56.0,ONP,44.0
+2026,12-16 Jan& 8-14 Feb,12/1/2026,Resolve,The Age,,"1,100",OTH,18.0,NA,NA,NA,NA
+2026,12-16 Jan& 8-14 Feb,12/1/2026,Resolve,The Age,,"1,100",ALP,28.0,NA,NA,NA,NA
+2026,12-16 Jan& 8-14 Feb,12/1/2026,Resolve,The Age,,"1,100",L/NP,30.0,NA,NA,NA,NA
+2026,12-16 Jan& 8-14 Feb,12/1/2026,Resolve,The Age,,"1,100",GRN,12.0,NA,NA,NA,NA
+2026,12-16 Jan& 8-14 Feb,12/1/2026,Resolve,The Age,,"1,100",ONP,11.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,"1,274",OTH,12.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,"1,274",ALP,23.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,"1,274",L/NP,29.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,"1,274",GRN,15.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,"1,274",ONP,21.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,"1,274",NA,NA,ALP,47.0,L/NP,53.0
+2026,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,OTH,17.1,NA,NA,NA,NA
+2026,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,ALP,37.0,NA,NA,NA,NA
+2026,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,L/NP,34.5,NA,NA,NA,NA
+2026,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,GRN,11.5,NA,NA,NA,NA
+2026,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,ONP,0.3,NA,NA,NA,NA
+2026,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,NA,NA,ALP,55.0,L/NP,45.0
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,"1,021",OTH,17.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,"1,021",ALP,31.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,"1,021",L/NP,40.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,"1,021",GRN,12.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,"1,021",NA,NA,ALP,50.0,L/NP,50.0
+2025,7 Dec,7/12/2025,Resolve,The Age,,"1,000",OTH,20.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,"1,000",ALP,28.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,"1,000",L/NP,39.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
+2025,21-24 Nov,21/11/2025,Freshwater,Herald Sun,,"1,220",OTH,18.0,NA,NA,NA,NA
+2025,21-24 Nov,21/11/2025,Freshwater,Herald Sun,,"1,220",ALP,30.0,NA,NA,NA,NA
+2025,21-24 Nov,21/11/2025,Freshwater,Herald Sun,,"1,220",L/NP,37.0,NA,NA,NA,NA
+2025,21-24 Nov,21/11/2025,Freshwater,Herald Sun,,"1,220",GRN,15.0,NA,NA,NA,NA
+2025,21-24 Nov,21/11/2025,Freshwater,Herald Sun,,"1,220",NA,NA,ALP,50.0,L/NP,50.0
+2025,18-20 Nov,18/11/2025,Newspoll,The Australian,,"1,030",OTH,22.0,NA,NA,NA,NA
+2025,18-20 Nov,18/11/2025,Newspoll,The Australian,,"1,030",ALP,28.0,NA,NA,NA,NA
+2025,18-20 Nov,18/11/2025,Newspoll,The Australian,,"1,030",L/NP,36.0,NA,NA,NA,NA
+2025,18-20 Nov,18/11/2025,Newspoll,The Australian,,"1,030",GRN,14.0,NA,NA,NA,NA
+2025,18-20 Nov,18/11/2025,Newspoll,The Australian,,"1,030",NA,NA,ALP,49.0,L/NP,51.0
+2025,14-17 Nov,14/11/2025,Freshwater,Herald Sun,,"1,217",OTH,18.0,NA,NA,NA,NA
+2025,14-17 Nov,14/11/2025,Freshwater,Herald Sun,,"1,217",ALP,30.0,NA,NA,NA,NA
+2025,14-17 Nov,14/11/2025,Freshwater,Herald Sun,,"1,217",L/NP,37.0,NA,NA,NA,NA
+2025,14-17 Nov,14/11/2025,Freshwater,Herald Sun,,"1,217",GRN,15.0,NA,NA,NA,NA
+2025,14-17 Nov,14/11/2025,Freshwater,Herald Sun,,"1,217",NA,NA,ALP,49.0,L/NP,51.0
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,"1,016",OTH,22.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,"1,016",ALP,26.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,"1,016",L/NP,37.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,"1,016",GRN,15.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,"1,016",NA,NA,ALP,49.0,L/NP,51.0
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,"1,501",OTH,18.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,"1,501",ALP,32.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,"1,501",L/NP,37.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,"1,501",GRN,13.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,"1,501",NA,NA,ALP,52.0,L/NP,48.0
+2025,12 Oct,12/10/2025,Resolve,The Age,,"1,000",OTH,25.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,"1,000",ALP,30.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,"1,000",L/NP,33.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
+2025,3-11 Sep,3/9/2025,RedBridge/Accent,Herald Sun,,2005,OTH,18.0,NA,NA,NA,NA
+2025,3-11 Sep,3/9/2025,RedBridge/Accent,Herald Sun,,2005,ALP,32.0,NA,NA,NA,NA
+2025,3-11 Sep,3/9/2025,RedBridge/Accent,Herald Sun,,2005,L/NP,37.0,NA,NA,NA,NA
+2025,3-11 Sep,3/9/2025,RedBridge/Accent,Herald Sun,,2005,GRN,13.0,NA,NA,NA,NA
+2025,3-11 Sep,3/9/2025,RedBridge/Accent,Herald Sun,,2005,NA,NA,ALP,52.0,L/NP,48.0
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,1327,OTH,21.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,1327,ALP,26.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,1327,L/NP,38.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,1327,GRN,15.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,1327,NA,NA,ALP,49.0,L/NP,51.0
+2025,17 Aug,17/8/2025,Resolve,The Age,,1000,OTH,22.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,1000,ALP,32.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,1000,L/NP,33.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,1000,GRN,12.0,NA,NA,NA,NA
+2025,23-30 Jun,23/6/2025,Newspoll,The Australian,,1000,OTH,18.0,NA,NA,NA,NA
+2025,23-30 Jun,23/6/2025,Newspoll,The Australian,,1000,ALP,35.0,NA,NA,NA,NA
+2025,23-30 Jun,23/6/2025,Newspoll,The Australian,,1000,L/NP,35.0,NA,NA,NA,NA
+2025,23-30 Jun,23/6/2025,Newspoll,The Australian,,1000,GRN,12.0,NA,NA,NA,NA
+2025,23-30 Jun,23/6/2025,Newspoll,The Australian,,1000,NA,NA,ALP,53.0,L/NP,47.0
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Herald Sun,,1183,OTH,15.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Herald Sun,,1183,ALP,33.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Herald Sun,,1183,L/NP,38.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Herald Sun,,1183,GRN,14.0,NA,NA,NA,NA
+2025,19-30 Jun,19/6/2025,RedBridge/Accent,Herald Sun,,1183,NA,NA,ALP,51.5,L/NP,48.5
+2025,24 Mar - 2 Apr,24/3/2025,RedBridge/Accent,Herald Sun,,"2,013",OTH,17.0,NA,NA,NA,NA
+2025,24 Mar - 2 Apr,24/3/2025,RedBridge/Accent,Herald Sun,,"2,013",ALP,29.0,NA,NA,NA,NA
+2025,24 Mar - 2 Apr,24/3/2025,RedBridge/Accent,Herald Sun,,"2,013",L/NP,41.0,NA,NA,NA,NA
+2025,24 Mar - 2 Apr,24/3/2025,RedBridge/Accent,Herald Sun,,"2,013",GRN,13.0,NA,NA,NA,NA
+2025,24 Mar - 2 Apr,24/3/2025,RedBridge/Accent,Herald Sun,,"2,013",NA,NA,ALP,49.0,L/NP,51.0
+2025,30 Mar,30/3/2025,Resolve,The Age,,1000,OTH,21.0,NA,NA,NA,NA
+2025,30 Mar,30/3/2025,Resolve,The Age,,1000,ALP,24.0,NA,NA,NA,NA
+2025,30 Mar,30/3/2025,Resolve,The Age,,1000,L/NP,41.0,NA,NA,NA,NA
+2025,30 Mar,30/3/2025,Resolve,The Age,,1000,GRN,14.0,NA,NA,NA,NA
+2025,17-21 Mar,17/3/2025,DemosAU/Premier National,NA,,"1,006",OTH,21.0,NA,NA,NA,NA
+2025,17-21 Mar,17/3/2025,DemosAU/Premier National,NA,,"1,006",ALP,25.0,NA,NA,NA,NA
+2025,17-21 Mar,17/3/2025,DemosAU/Premier National,NA,,"1,006",L/NP,39.0,NA,NA,NA,NA
+2025,17-21 Mar,17/3/2025,DemosAU/Premier National,NA,,"1,006",GRN,15.0,NA,NA,NA,NA
+2025,17-21 Mar,17/3/2025,DemosAU/Premier National,NA,,"1,006",NA,NA,ALP,48.0,L/NP,52.0
+2025,Dec - Jan,,Resolve,The Age,,"1,124",OTH,23.0,NA,NA,NA,NA
+2025,Dec - Jan,,Resolve,The Age,,"1,124",ALP,22.0,NA,NA,NA,NA
+2025,Dec - Jan,,Resolve,The Age,,"1,124",L/NP,42.0,NA,NA,NA,NA
+2025,Dec - Jan,,Resolve,The Age,,"1,124",GRN,13.0,NA,NA,NA,NA
+2025,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,OTH,17.1,NA,NA,NA,NA
+2025,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,ALP,37.0,NA,NA,NA,NA
+2025,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,L/NP,34.5,NA,NA,NA,NA
+2025,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,GRN,11.5,NA,NA,NA,NA
+2025,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,NA,NA,ALP,55.0,L/NP,45.0
+2024,Dec - Jan,,Resolve,The Age,,"1,124",OTH,23.0,NA,NA,NA,NA
+2024,Dec - Jan,,Resolve,The Age,,"1,124",ALP,22.0,NA,NA,NA,NA
+2024,Dec - Jan,,Resolve,The Age,,"1,124",L/NP,42.0,NA,NA,NA,NA
+2024,Dec - Jan,,Resolve,The Age,,"1,124",GRN,13.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,920,OTH,13.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,920,ALP,30.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,920,L/NP,43.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,920,GRN,14.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,920,NA,NA,ALP,49.0,L/NP,51.0
+2024,10 Nov,10/11/2024,Resolve,The Age,,"1,000",OTH,21.0,NA,NA,NA,NA
+2024,10 Nov,10/11/2024,Resolve,The Age,,"1,000",ALP,28.0,NA,NA,NA,NA
+2024,10 Nov,10/11/2024,Resolve,The Age,,"1,000",L/NP,38.0,NA,NA,NA,NA
+2024,10 Nov,10/11/2024,Resolve,The Age,,"1,000",GRN,13.0,NA,NA,NA,NA
+2024,26 Sep - 3 Oct,26/9/2024,RedBridge/Accent,Herald Sun,,"1,516",OTH,18.0,NA,NA,NA,NA
+2024,26 Sep - 3 Oct,26/9/2024,RedBridge/Accent,Herald Sun,,"1,516",ALP,30.0,NA,NA,NA,NA
+2024,26 Sep - 3 Oct,26/9/2024,RedBridge/Accent,Herald Sun,,"1,516",L/NP,40.0,NA,NA,NA,NA
+2024,26 Sep - 3 Oct,26/9/2024,RedBridge/Accent,Herald Sun,,"1,516",GRN,12.0,NA,NA,NA,NA
+2024,26 Sep - 3 Oct,26/9/2024,RedBridge/Accent,Herald Sun,,"1,516",NA,NA,ALP,49.0,L/NP,51.0
+2024,18 Sep,18/9/2024,RedBridge/Accent,Herald Sun,,"1,500",OTH,17.0,NA,NA,NA,NA
+2024,18 Sep,18/9/2024,RedBridge/Accent,Herald Sun,,"1,500",ALP,30.0,NA,NA,NA,NA
+2024,18 Sep,18/9/2024,RedBridge/Accent,Herald Sun,,"1,500",L/NP,40.0,NA,NA,NA,NA
+2024,18 Sep,18/9/2024,RedBridge/Accent,Herald Sun,,"1,500",GRN,12.0,NA,NA,NA,NA
+2024,18 Sep,18/9/2024,RedBridge/Accent,Herald Sun,,"1,500",NA,NA,ALP,50.0,L/NP,50.0
+2024,7 Sep,7/9/2024,Resolve,The Age,,"1,054",OTH,22.0,NA,NA,NA,NA
+2024,7 Sep,7/9/2024,Resolve,The Age,,"1,054",ALP,27.0,NA,NA,NA,NA
+2024,7 Sep,7/9/2024,Resolve,The Age,,"1,054",L/NP,37.0,NA,NA,NA,NA
+2024,7 Sep,7/9/2024,Resolve,The Age,,"1,054",GRN,14.0,NA,NA,NA,NA
+2024,6-29 Aug,6/8/2024,Wolf & Smith,NA,,"2,024",OTH,18.0,NA,NA,NA,NA
+2024,6-29 Aug,6/8/2024,Wolf & Smith,NA,,"2,024",ALP,28.0,NA,NA,NA,NA
+2024,6-29 Aug,6/8/2024,Wolf & Smith,NA,,"2,024",L/NP,40.0,NA,NA,NA,NA
+2024,6-29 Aug,6/8/2024,Wolf & Smith,NA,,"2,024",GRN,14.0,NA,NA,NA,NA
+2024,6-29 Aug,6/8/2024,Wolf & Smith,NA,,"2,024",NA,NA,ALP,48.0,L/NP,52.0
+2024,5 Aug,5/8/2024,RedBridge/Accent,Herald Sun,,"1,514",OTH,17.0,NA,NA,NA,NA
+2024,5 Aug,5/8/2024,RedBridge/Accent,Herald Sun,,"1,514",ALP,31.0,NA,NA,NA,NA
+2024,5 Aug,5/8/2024,RedBridge/Accent,Herald Sun,,"1,514",L/NP,40.0,NA,NA,NA,NA
+2024,5 Aug,5/8/2024,RedBridge/Accent,Herald Sun,,"1,514",GRN,12.0,NA,NA,NA,NA
+2024,5 Aug,5/8/2024,RedBridge/Accent,Herald Sun,,"1,514",NA,NA,ALP,50.0,L/NP,50.0
+2024,14 Jul,14/7/2024,Resolve,The Age,,"1,000",OTH,21.0,NA,NA,NA,NA
+2024,14 Jul,14/7/2024,Resolve,The Age,,"1,000",ALP,27.0,NA,NA,NA,NA
+2024,14 Jul,14/7/2024,Resolve,The Age,,"1,000",L/NP,37.0,NA,NA,NA,NA
+2024,14 Jul,14/7/2024,Resolve,The Age,,"1,000",GRN,15.0,NA,NA,NA,NA
+2024,7 Jun,7/6/2024,RedBridge/Accent,Herald Sun,,"1,000",OTH,13.0,NA,NA,NA,NA
+2024,7 Jun,7/6/2024,RedBridge/Accent,Herald Sun,,"1,000",ALP,35.0,NA,NA,NA,NA
+2024,7 Jun,7/6/2024,RedBridge/Accent,Herald Sun,,"1,000",L/NP,38.0,NA,NA,NA,NA
+2024,7 Jun,7/6/2024,RedBridge/Accent,Herald Sun,,"1,000",GRN,14.0,NA,NA,NA,NA
+2024,7 Jun,7/6/2024,RedBridge/Accent,Herald Sun,,"1,000",NA,NA,ALP,55.0,L/NP,45.0
+2024,19 May,19/5/2024,Resolve,Herald Sun,,"1,000",OTH,22.0,NA,NA,NA,NA
+2024,19 May,19/5/2024,Resolve,Herald Sun,,"1,000",ALP,28.0,NA,NA,NA,NA
+2024,19 May,19/5/2024,Resolve,Herald Sun,,"1,000",L/NP,37.0,NA,NA,NA,NA
+2024,19 May,19/5/2024,Resolve,Herald Sun,,"1,000",GRN,13.0,NA,NA,NA,NA
+2024,24 Mar,24/3/2024,Resolve,The Age,,"1,100",OTH,19.0,NA,NA,NA,NA
+2024,24 Mar,24/3/2024,Resolve,The Age,,"1,100",ALP,33.0,NA,NA,NA,NA
+2024,24 Mar,24/3/2024,Resolve,The Age,,"1,100",L/NP,35.0,NA,NA,NA,NA
+2024,24 Mar,24/3/2024,Resolve,The Age,,"1,100",GRN,13.0,NA,NA,NA,NA
+2024,24 Mar,24/3/2024,Resolve,The Age,,"1,100",NA,NA,ALP,54.6,L/NP,45.4
+2024,14-20 Mar,14/3/2024,RedBridge/Accent,Herald Sun,,"1,559",OTH,16.0,NA,NA,NA,NA
+2024,14-20 Mar,14/3/2024,RedBridge/Accent,Herald Sun,,"1,559",ALP,36.0,NA,NA,NA,NA
+2024,14-20 Mar,14/3/2024,RedBridge/Accent,Herald Sun,,"1,559",L/NP,38.0,NA,NA,NA,NA
+2024,14-20 Mar,14/3/2024,RedBridge/Accent,Herald Sun,,"1,559",GRN,10.0,NA,NA,NA,NA
+2024,14-20 Mar,14/3/2024,RedBridge/Accent,Herald Sun,,"1,559",NA,NA,ALP,54.0,L/NP,46.0
+2023,2-12 Dec,2/12/2023,RedBridge/Accent,Herald Sun,,"2,000",OTH,14.0,NA,NA,NA,NA
+2023,2-12 Dec,2/12/2023,RedBridge/Accent,Herald Sun,,"2,000",ALP,37.0,NA,NA,NA,NA
+2023,2-12 Dec,2/12/2023,RedBridge/Accent,Herald Sun,,"2,000",LIB,36.0,NA,NA,NA,NA
+2023,2-12 Dec,2/12/2023,RedBridge/Accent,Herald Sun,,"2,000",NAT,36.0,NA,NA,NA,NA
+2023,2-12 Dec,2/12/2023,RedBridge/Accent,Herald Sun,,"2,000",GRN,13.0,NA,NA,NA,NA
+2023,2-12 Dec,2/12/2023,RedBridge/Accent,Herald Sun,,"2,000",NA,NA,ALP,55.9,L/NP,44.1
+2023,3 Dec,3/12/2023,Resolve,The Age,,"1,100",OTH,20.0,NA,NA,NA,NA
+2023,3 Dec,3/12/2023,Resolve,The Age,,"1,100",ALP,37.0,NA,NA,NA,NA
+2023,3 Dec,3/12/2023,Resolve,The Age,,"1,100",LIB,31.0,NA,NA,NA,NA
+2023,3 Dec,3/12/2023,Resolve,The Age,,"1,100",NAT,31.0,NA,NA,NA,NA
+2023,3 Dec,3/12/2023,Resolve,The Age,,"1,100",GRN,11.0,NA,NA,NA,NA
+2023,Sep-Oct,,Resolve,The Age,,"1,100",OTH,17.0,NA,NA,NA,NA
+2023,Sep-Oct,,Resolve,The Age,,"1,100",ALP,39.0,NA,NA,NA,NA
+2023,Sep-Oct,,Resolve,The Age,,"1,100",LIB,32.0,NA,NA,NA,NA
+2023,Sep-Oct,,Resolve,The Age,,"1,100",NAT,32.0,NA,NA,NA,NA
+2023,Sep-Oct,,Resolve,The Age,,"1,100",GRN,12.0,NA,NA,NA,NA
+2023,31 Aug - 14 Sep,31/8/2023,RedBridge/Accent,NA,,"3,001",OTH,16.0,NA,NA,NA,NA
+2023,31 Aug - 14 Sep,31/8/2023,RedBridge/Accent,NA,,"3,001",ALP,37.0,NA,NA,NA,NA
+2023,31 Aug - 14 Sep,31/8/2023,RedBridge/Accent,NA,,"3,001",LIB,34.0,NA,NA,NA,NA
+2023,31 Aug - 14 Sep,31/8/2023,RedBridge/Accent,NA,,"3,001",NAT,34.0,NA,NA,NA,NA
+2023,31 Aug - 14 Sep,31/8/2023,RedBridge/Accent,NA,,"3,001",GRN,13.0,NA,NA,NA,NA
+2023,31 Aug - 14 Sep,31/8/2023,RedBridge/Accent,NA,,"3,001",NA,NA,ALP,56.5,L/NP,43.5
+2023,Jul-Aug,,Resolve,The Age,,"1,100",OTH,20.0,NA,NA,NA,NA
+2023,Jul-Aug,,Resolve,The Age,,"1,100",ALP,39.0,NA,NA,NA,NA
+2023,Jul-Aug,,Resolve,The Age,,"1,100",LIB,28.0,NA,NA,NA,NA
+2023,Jul-Aug,,Resolve,The Age,,"1,100",NAT,28.0,NA,NA,NA,NA
+2023,Jul-Aug,,Resolve,The Age,,"1,100",GRN,13.0,NA,NA,NA,NA
+2023,19-20 Jul,19/7/2023,Roy Morgan,NA,,"1,046",OTH,19.0,NA,NA,NA,NA
+2023,19-20 Jul,19/7/2023,Roy Morgan,NA,,"1,046",ALP,33.0,NA,NA,NA,NA
+2023,19-20 Jul,19/7/2023,Roy Morgan,NA,,"1,046",LIB,35.5,NA,NA,NA,NA
+2023,19-20 Jul,19/7/2023,Roy Morgan,NA,,"1,046",NAT,35.5,NA,NA,NA,NA
+2023,19-20 Jul,19/7/2023,Roy Morgan,NA,,"1,046",GRN,12.5,NA,NA,NA,NA
+2023,19-20 Jul,19/7/2023,Roy Morgan,NA,,"1,046",NA,NA,ALP,53.0,L/NP,47.0
+2023,May-Jun,,Resolve,The Age,,"1,003",OTH,18.0,NA,NA,NA,NA
+2023,May-Jun,,Resolve,The Age,,"1,003",ALP,41.0,NA,NA,NA,NA
+2023,May-Jun,,Resolve,The Age,,"1,003",LIB,23.0,NA,NA,NA,NA
+2023,May-Jun,,Resolve,The Age,,"1,003",NAT,3.0,NA,NA,NA,NA
+2023,May-Jun,,Resolve,The Age,,"1,003",GRN,15.0,NA,NA,NA,NA
+2023,17-22 May,17/5/2023,Roy Morgan,NA,,"2,095",OTH,17.0,NA,NA,NA,NA
+2023,17-22 May,17/5/2023,Roy Morgan,NA,,"2,095",ALP,42.0,NA,NA,NA,NA
+2023,17-22 May,17/5/2023,Roy Morgan,NA,,"2,095",LIB,28.5,NA,NA,NA,NA
+2023,17-22 May,17/5/2023,Roy Morgan,NA,,"2,095",NAT,28.5,NA,NA,NA,NA
+2023,17-22 May,17/5/2023,Roy Morgan,NA,,"2,095",GRN,12.5,NA,NA,NA,NA
+2023,17-22 May,17/5/2023,Roy Morgan,NA,,"2,095",NA,NA,ALP,61.5,L/NP,38.5
+2023,19-22 Apr,19/4/2023,Resolve,The Age,,"1,609",OTH,17.0,NA,NA,NA,NA
+2023,19-22 Apr,19/4/2023,Resolve,The Age,,"1,609",ALP,42.0,NA,NA,NA,NA
+2023,19-22 Apr,19/4/2023,Resolve,The Age,,"1,609",LIB,30.0,NA,NA,NA,NA
+2023,19-22 Apr,19/4/2023,Resolve,The Age,,"1,609",NAT,30.0,NA,NA,NA,NA
+2023,19-22 Apr,19/4/2023,Resolve,The Age,,"1,609",GRN,10.0,NA,NA,NA,NA
+2023,15-18 Feb,15/2/2023,Resolve,The Age,,825,OTH,17.0,NA,NA,NA,NA
+2023,15-18 Feb,15/2/2023,Resolve,The Age,,825,ALP,41.0,NA,NA,NA,NA
+2023,15-18 Feb,15/2/2023,Resolve,The Age,,825,LIB,30.0,NA,NA,NA,NA
+2023,15-18 Feb,15/2/2023,Resolve,The Age,,825,NAT,30.0,NA,NA,NA,NA
+2023,15-18 Feb,15/2/2023,Resolve,The Age,,825,GRN,13.0,NA,NA,NA,NA
+2023,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,OTH,17.1,NA,NA,NA,NA
+2023,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,ALP,37.0,NA,NA,NA,NA
+2023,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,LIB,34.5,NA,NA,NA,NA
+2023,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,NAT,34.5,NA,NA,NA,NA
+2023,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,GRN,11.5,NA,NA,NA,NA
+2023,26 Nov,26/11/2022,2022 election,2022 election,,2022 election,NA,NA,ALP,55.0,L/NP,45.0
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,OTH,11.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ALP,23.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,L/NP,28.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,GRN,23.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ONP,15.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,OTH,15.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,ALP,30.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,41.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,GRN,14.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,50.0,L/NP,50.0
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,OTH,17.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,ALP,27.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,L/NP,31.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,GRN,25.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,57.0,L/NP,43.0
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,OTH,18.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,ALP,27.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,L/NP,36.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,GRN,19.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,52.0,L/NP,48.0
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,OTH,14.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,ALP,28.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,L/NP,41.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,GRN,17.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,NA,NA,ALP,49.0,L/NP,51.0
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,OTH,10.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ALP,24.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,L/NP,32.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,GRN,13.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ONP,21.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,OTH,17.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,ALP,34.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,L/NP,38.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,GRN,11.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,NA,NA,ALP,51.0,L/NP,49.0
+2025,21-27 Oct,21/10/2025,DemosAU,NA,,,OTH,22.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU,NA,,,ALP,27.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU,NA,,,L/NP,40.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU,NA,,,GRN,11.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU,NA,,,NA,NA,ALP,46.0,L/NP,54.0
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,OTH,21.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,ALP,25.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,L/NP,39.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,GRN,14.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,47.0,L/NP,53.0
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,OTH,12.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,ALP,31.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,L/NP,42.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,GRN,15.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,NA,NA,ALP,50.0,L/NP,50.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,OTH,12.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ALP,26.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,L/NP,22.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,GRN,15.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ONP,24.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,54.0,L/NP,46.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,55.5,ONP,44.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,L/NP,58.5,ONP,41.5
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,OTH,18.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,ALP,41.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,27.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,GRN,14.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,60.0,L/NP,40.0
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,OTH,21.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,ALP,23.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,43.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,GRN,13.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,44.0,L/NP,56.0
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,OTH,10.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ALP,20.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,L/NP,37.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,GRN,15.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ONP,18.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,OTH,13.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ALP,20.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,L/NP,27.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,GRN,19.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ONP,21.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,OTH,14.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ALP,28.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,L/NP,19.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,GRN,16.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ONP,22.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,58.5,L/NP,41.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,60.5,ONP,39.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,L/NP,59.5,ONP,40.5
+2026,1 - 10 Feb,1/2/2026,DemosAU/Premier National,NA,,,OTH,11.0,NA,NA,NA,NA
+2026,1 - 10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ALP,22.0,NA,NA,NA,NA
+2026,1 - 10 Feb,1/2/2026,DemosAU/Premier National,NA,,,L/NP,28.0,NA,NA,NA,NA
+2026,1 - 10 Feb,1/2/2026,DemosAU/Premier National,NA,,,GRN,18.0,NA,NA,NA,NA
+2026,1 - 10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ONP,21.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,OTH,10.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,ALP,28.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,L/NP,36.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,GRN,16.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,OTH,21.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,ALP,28.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,37.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,GRN,14.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,51.0,L/NP,49.0
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,OTH,21.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,ALP,24.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,L/NP,36.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,GRN,19.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,50.0,L/NP,50.0
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,OTH,20.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,ALP,30.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,36.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,GRN,14.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,52.0,L/NP,48.0
+2025,12 Oct,12/10/2025,Resolve,The Age,,,OTH,28.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,ALP,27.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,L/NP,32.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,GRN,13.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,OTH,23.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,ALP,26.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,L/NP,33.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,GRN,19.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,52.0,L/NP,48.0
+2025,17 Aug,17/8/2025,Resolve,The Age,,,OTH,24.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,ALP,32.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,L/NP,28.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,GRN,16.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,OTH,14.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,ALP,28.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,L/NP,42.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,GRN,16.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,NA,NA,ALP,49.0,L/NP,51.0
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,OTH,11.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ALP,25.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,L/NP,28.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,GRN,11.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ONP,25.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,OTH,10.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ALP,21.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,L/NP,33.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,GRN,12.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ONP,24.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,OTH,11.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ALP,23.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,L/NP,24.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,GRN,11.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ONP,30.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,45.0,L/NP,55.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,44.5,ONP,55.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,L/NP,52.5,ONP,47.5
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,OTH,12.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ALP,25.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,L/NP,30.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,GRN,12.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ONP,21.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,OTH,19.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,ALP,29.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,L/NP,43.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,GRN,9.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,OTH,14.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,ALP,33.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,42.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,GRN,11.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,49.0,L/NP,51.0
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,OTH,22.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,ALP,28.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,L/NP,39.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,GRN,11.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,47.0,L/NP,53.0
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,OTH,13.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,ALP,35.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,L/NP,41.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,GRN,11.0,NA,NA,NA,NA
+2025,8-14 Oct,8/10/2025,RedBridge/Accent,Australian Financial Review,,,NA,NA,ALP,51.0,L/NP,49.0
+2025,12 Oct,12/10/2025,Resolve,The Age,,,OTH,22.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,ALP,34.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,L/NP,34.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,GRN,10.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,OTH,20.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,ALP,27.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,L/NP,43.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,GRN,11.0,NA,NA,NA,NA
+2025,2-9 Sep,2/9/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,44.0,L/NP,56.0
+2025,17 Aug,17/8/2025,Resolve,The Age,,,OTH,22.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,ALP,31.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,L/NP,39.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,GRN,8.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,OTH,13.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,ALP,32.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,L/NP,43.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,GRN,12.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,NA,NA,ALP,49.0,L/NP,51.0
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,OTH,7.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ALP,24.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,L/NP,22.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,GRN,30.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ONP,17.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,OTH,8.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ALP,25.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,L/NP,18.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,GRN,33.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ONP,16.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,OTH,12.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ALP,28.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,L/NP,20.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,GRN,14.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ONP,25.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,56.5,L/NP,43.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,55.5,ONP,44.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,L/NP,56.5,ONP,43.5
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,OTH,9.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ALP,26.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,L/NP,21.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,GRN,35.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ONP,9.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,OTH,7.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,ALP,28.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,L/NP,37.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,GRN,20.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,OTH,16.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,ALP,30.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,L/NP,23.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,GRN,31.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,65.0,L/NP,35.0
+2025,12 Oct,12/10/2025,Resolve,The Age,,,OTH,22.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,ALP,39.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,L/NP,20.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,GRN,20.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,OTH,16.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,ALP,39.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,L/NP,20.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,GRN,25.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,OTH,14.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,ALP,31.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,L/NP,26.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,GRN,29.0,NA,NA,NA,NA
+2024,6-20 Nov,6/11/2024,RedBridge/Accent,Herald Sun,,,NA,NA,ALP,64.0,L/NP,36.0
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,OTH,12.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ALP,21.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,L/NP,31.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,GRN,12.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ONP,24.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,OTH,10.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ALP,19.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,L/NP,30.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,GRN,13.0,NA,NA,NA,NA
+2026,7-11 Jun,7/6/2026,DemosAU/Premier National,NA,,,ONP,28.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,OTH,14.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ALP,23.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,L/NP,26.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,GRN,14.0,NA,NA,NA,NA
+2026,1-10 Feb,1/2/2026,DemosAU/Premier National,NA,,,ONP,23.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,OTH,24.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,ALP,30.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,L/NP,32.0,NA,NA,NA,NA
+2025,7 Dec,7/12/2025,Resolve,The Age,,,GRN,13.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,OTH,20.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,ALP,27.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,L/NP,34.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,GRN,19.0,NA,NA,NA,NA
+2025,21-27 Oct,21/10/2025,DemosAU/Premier National,NA,,,NA,NA,ALP,53.0,L/NP,47.0
+2025,12 Oct,12/10/2025,Resolve,The Age,,,OTH,28.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,ALP,30.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,L/NP,29.0,NA,NA,NA,NA
+2025,12 Oct,12/10/2025,Resolve,The Age,,,GRN,14.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,OTH,26.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,ALP,35.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,L/NP,27.0,NA,NA,NA,NA
+2025,17 Aug,17/8/2025,Resolve,The Age,,,GRN,12.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,OTH,13.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ALP,25.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,L/NP,23.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,GRN,11.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ONP,27.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,50.0,L/NP,50.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,49.5,ONP,50.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,L/NP,54.5,ONP,45.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,OTH,13.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ALP,23.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,L/NP,24.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,GRN,12.5,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,ONP,27.0,NA,NA,NA,NA
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,49.5,L/NP,50.5
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,ALP,51.0,ONP,49.0
+2026,13-16 Feb,13/2/2026,Roy Morgan,NA,,,NA,NA,L/NP,56.0,ONP,44.0
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,OTH,17.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,ALP,35.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,L/NP,20.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,GRN,28.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,NA,NA,ALP,68.0,L/NP,32.0
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,OTH,17.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,ALP,35.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,L/NP,32.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,GRN,16.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,NA,NA,ALP,58.0,L/NP,42.0
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,OTH,24.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,ALP,28.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,L/NP,38.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,GRN,10.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,NA,NA,ALP,49.0,L/NP,51.0
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,OTH,15.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,ALP,27.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,L/NP,54.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,GRN,4.0,NA,NA,NA,NA
+2025,24 Nov - 8 Dec,24/11/2025,Redbridge/Accent,Australian Financial Review,,,NA,NA,ALP,37.0,L/NP,63.0
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,OTH,9.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ALP,22.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,L/NP,32.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,GRN,13.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ONP,24.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,OTH,15.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ALP,24.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,L/NP,34.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,GRN,14.0,NA,NA,NA,NA
+2026,6-11 Aug,6/8/2026,DemosAU/Premier National,NA,,,ONP,13.0,NA,NA,NA,NA
