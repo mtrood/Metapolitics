@@ -1,2 +1,3 @@
 data/raw/*.csv
 !data/raw/data.csv
+!data/raw/data_Vic.csv
