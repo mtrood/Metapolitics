@@ -1,4 +1,12 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",ALP,25.0,NA,NA,NA,NA
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",LIB,21.0,NA,NA,NA,NA
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",NAT,21.0,NA,NA,NA,NA
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",GRN,15.0,NA,NA,NA,NA
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",ONP,28.0,NA,NA,NA,NA
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",OTH,11.0,NA,NA,NA,NA
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,52.0,L/NP,48.0
+2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",NA,NA,ALP,53.0,ONP,47.0
 2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",ALP,28.0,NA,NA,NA,NA
 2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",LIB,21.0,NA,NA,NA,NA
 2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",NAT,21.0,NA,NA,NA,NA
