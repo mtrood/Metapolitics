@@ -1,4 +1,12 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",ALP,28.0,NA,NA,NA,NA
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",LIB,21.0,NA,NA,NA,NA
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",NAT,21.0,NA,NA,NA,NA
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",GRN,11.0,NA,NA,NA,NA
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",ONP,29.0,NA,NA,NA,NA
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",OTH,11.0,NA,NA,NA,NA
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",NA,NA,ALP,46.0,L/NP,54.0
+2026,28 Sept-2 Oct,28/9/2026,RedBridge/Accent,Australian Financial Review,Online,"1,000",NA,NA,ALP,52.0,ONP,48.0
 2026,23-28 Sept,23/9/2026,Essential,The Guardian,Online,"1,022",ALP,29.0,NA,NA,NA,NA
 2026,23-28 Sept,23/9/2026,Essential,The Guardian,Online,"1,022",LIB,22.0,NA,NA,NA,NA
 2026,23-28 Sept,23/9/2026,Essential,The Guardian,Online,"1,022",NAT,22.0,NA,NA,NA,NA
