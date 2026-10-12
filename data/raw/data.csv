@@ -1,4 +1,16 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,6-10 Oct,6/10/2026,Resolve,Sydney Morning Herald/The Age,Telephone & online,"2,250",ALP,29.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,Sydney Morning Herald/The Age,Telephone & online,"2,250",LIB,23.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,Sydney Morning Herald/The Age,Telephone & online,"2,250",NAT,23.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,Sydney Morning Herald/The Age,Telephone & online,"2,250",GRN,12.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,Sydney Morning Herald/The Age,Telephone & online,"2,250",ONP,25.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,Sydney Morning Herald/The Age,Telephone & online,"2,250",OTH,11.0,NA,NA,NA,NA
+2026,5-8 Oct,5/10/2026,Newspoll,The Australian,Online,"1,241",ALP,29.0,NA,NA,NA,NA
+2026,5-8 Oct,5/10/2026,Newspoll,The Australian,Online,"1,241",LIB,20.0,NA,NA,NA,NA
+2026,5-8 Oct,5/10/2026,Newspoll,The Australian,Online,"1,241",NAT,20.0,NA,NA,NA,NA
+2026,5-8 Oct,5/10/2026,Newspoll,The Australian,Online,"1,241",GRN,14.0,NA,NA,NA,NA
+2026,5-8 Oct,5/10/2026,Newspoll,The Australian,Online,"1,241",ONP,28.0,NA,NA,NA,NA
+2026,5-8 Oct,5/10/2026,Newspoll,The Australian,Online,"1,241",OTH,9.0,NA,NA,NA,NA
 2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",ALP,25.0,NA,NA,NA,NA
 2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",LIB,21.0,NA,NA,NA,NA
 2026,29 Sept-6 Oct,29/9/2026,YouGov,News24,Online,"1,500",NAT,21.0,NA,NA,NA,NA
@@ -45,6 +57,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,14-20 Sept,14/9/2026,Roy Morgan,NA,Online,"1,561",OTH,12.5,NA,NA,NA,NA
 2026,14-20 Sept,14/9/2026,Roy Morgan,NA,Online,"1,561",NA,NA,ALP,53.0,L/NP,47.0
 2026,14-20 Sept,14/9/2026,Roy Morgan,NA,Online,"1,561",NA,NA,ALP,54.0,ONP,46.0
+2026,4 Aug-19 Sept,4/8/2026,DemosAU (MRP),Capital Brief,Online,"9,740",ALP,27.0,NA,NA,NA,NA
+2026,4 Aug-19 Sept,4/8/2026,DemosAU (MRP),Capital Brief,Online,"9,740",LIB,22.0,NA,NA,NA,NA
+2026,4 Aug-19 Sept,4/8/2026,DemosAU (MRP),Capital Brief,Online,"9,740",NAT,22.0,NA,NA,NA,NA
+2026,4 Aug-19 Sept,4/8/2026,DemosAU (MRP),Capital Brief,Online,"9,740",GRN,13.0,NA,NA,NA,NA
+2026,4 Aug-19 Sept,4/8/2026,DemosAU (MRP),Capital Brief,Online,"9,740",ONP,26.0,NA,NA,NA,NA
+2026,4 Aug-19 Sept,4/8/2026,DemosAU (MRP),Capital Brief,Online,"9,740",OTH,12.0,NA,NA,NA,NA
 2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",ALP,27.0,NA,NA,NA,NA
 2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",LIB,19.0,NA,NA,NA,NA
 2026,14-17 Sept,14/9/2026,Newspoll,The Australian,Online,"1,244",NAT,19.0,NA,NA,NA,NA
@@ -65,12 +83,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,7-13 Sept,7/9/2026,Roy Morgan,NA,Online,"1,583",OTH,12.5,NA,NA,NA,NA
 2026,7-13 Sept,7/9/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,55.0,L/NP,45.0
 2026,7-13 Sept,7/9/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,54.5,ONP,45.5
-2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ALP,28.0,NA,NA,NA,NA
-2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",LIB,24.0,NA,NA,NA,NA
-2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",NAT,24.0,NA,NA,NA,NA
-2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",GRN,11.0,NA,NA,NA,NA
-2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ONP,27.0,NA,NA,NA,NA
-2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",OTH,9.0,NA,NA,NA,NA
+2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",ALP,28.0,NA,NA,NA,NA
+2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",LIB,24.0,NA,NA,NA,NA
+2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",NAT,24.0,NA,NA,NA,NA
+2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",GRN,11.0,NA,NA,NA,NA
+2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",ONP,27.0,NA,NA,NA,NA
+2026,6-12 Sept,6/9/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",OTH,9.0,NA,NA,NA,NA
 2026,1-8 Sept,1/9/2026,YouGov,News24,Online,"1,500",ALP,26.0,NA,NA,NA,NA
 2026,1-8 Sept,1/9/2026,YouGov,News24,Online,"1,500",LIB,18.0,NA,NA,NA,NA
 2026,1-8 Sept,1/9/2026,YouGov,News24,Online,"1,500",NAT,18.0,NA,NA,NA,NA
@@ -145,12 +163,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",OTH,10.5,NA,NA,NA,NA
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",NA,NA,ALP,52.0,L/NP,48.0
 2026,11-16 Aug,11/8/2026,Roy Morgan,NA,Online,"1,576",NA,NA,ALP,53.0,ONP,47.0
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ALP,28.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",LIB,23.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",NAT,23.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",GRN,12.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",ONP,26.0,NA,NA,NA,NA
-2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,256",OTH,11.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",ALP,28.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",LIB,23.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",NAT,23.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",GRN,12.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",ONP,26.0,NA,NA,NA,NA
+2026,9-15 Aug,9/8/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,256",OTH,11.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",ALP,28.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",LIB,22.0,NA,NA,NA,NA
 2026,4-10 Aug,4/8/2026,YouGov,News24,Online,"1,500",NAT,22.0,NA,NA,NA,NA
@@ -255,12 +273,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",OTH,12.0,NA,NA,NA,NA
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",NA,NA,ALP,54.0,L/NP,46.0
 2026,6-12 Jul,6/7/2026,Roy Morgan,NA,Online,"1,612",NA,NA,ALP,52.5,ONP,47.5
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",ALP,28.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",LIB,23.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",NAT,23.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",GRN,12.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",ONP,26.0,NA,NA,NA,NA
-2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"2,252",OTH,11.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,252",ALP,28.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,252",LIB,23.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,252",NAT,23.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,252",GRN,12.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,252",ONP,26.0,NA,NA,NA,NA
+2026,6-11 Jul,6/7/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"2,252",OTH,11.0,NA,NA,NA,NA
 2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",ALP,26.0,NA,NA,NA,NA
 2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",LIB,21.0,NA,NA,NA,NA
 2026,3-8 Jul,3/7/2026,DemosAU,Capital Brief,Online,"2,694",NAT,21.0,NA,NA,NA,NA
@@ -341,12 +359,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",OTH,11.5,NA,NA,NA,NA
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,54.5,L/NP,45.5
 2026,8-14 Jun,8/6/2026,Roy Morgan,NA,Online,"1,583",NA,NA,ALP,53.0,ONP,47.0
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",ALP,28.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",LIB,20.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",NAT,20.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",GRN,12.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",ONP,29.0,NA,NA,NA,NA
-2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,801",OTH,12.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,801",ALP,28.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,801",LIB,20.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,801",NAT,20.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,801",GRN,12.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,801",ONP,29.0,NA,NA,NA,NA
+2026,8-13 Jun,8/6/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,801",OTH,12.0,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",ALP,26.0,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",LIB,14.5,NA,NA,NA,NA
 2026,1-7 Jun,1/6/2026,Roy Morgan,NA,Online,"1,631",NAT,3.0,NA,NA,NA,NA
@@ -442,12 +460,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",OTH,10.5,NA,NA,NA,NA
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",NA,NA,ALP,54.0,L/NP,46.0
 2026,11-17 May,11/5/2026,Roy Morgan,NA,Online,"1,668",NA,NA,ALP,54.0,ONP,46.0
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ALP,29.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",LIB,23.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NAT,23.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",GRN,12.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ONP,24.0,NA,NA,NA,NA
-2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",OTH,12.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",ALP,29.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",LIB,23.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",NAT,23.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",GRN,12.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",ONP,24.0,NA,NA,NA,NA
+2026,13-16 May,13/5/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",OTH,12.0,NA,NA,NA,NA
 2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",ALP,29.0,NA,NA,NA,NA
 2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",LIB,25.0,NA,NA,NA,NA
 2026,13-15 May,13/5/2026,Freshwater,The Chronicle,Online,"1,384",NAT,25.0,NA,NA,NA,NA
@@ -546,13 +564,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",GRN,13.0,NA,NA,NA,NA
 2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",ONP,24.0,NA,NA,NA,NA
 2026,13-16 Apr,13/4/2026,Newspoll,The Australian,Online,"1,235",OTH,11.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",ALP,32.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",LIB,23.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",NAT,23.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",GRN,12.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",ONP,22.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",OTH,11.0,NA,NA,NA,NA
-2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,807",NA,NA,ALP,55.0,L/NP,45.0
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",ALP,32.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",LIB,23.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",NAT,23.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",GRN,12.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",ONP,22.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",OTH,11.0,NA,NA,NA,NA
+2026,13-18 Apr,13/4/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,807",NA,NA,ALP,55.0,L/NP,45.0
 2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",ALP,26.0,NA,NA,NA,NA
 2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",LIB,23.0,NA,NA,NA,NA
 2026,9-14 Apr,9/4/2026,DemosAU,Capital Brief,Online,"1,439",NAT,23.0,NA,NA,NA,NA
@@ -661,12 +679,12 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",ONP,22.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",OTH,12.5,NA,NA,NA,NA
 2026,9-15 Mar,9/3/2026,Roy Morgan,NA,Online,"1,649",NA,NA,ALP,54.0,L/NP,46.0
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",ALP,29.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",LIB,22.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",NAT,22.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",GRN,12.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",ONP,24.0,NA,NA,NA,NA
-2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,803",OTH,13.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,803",ALP,29.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,803",LIB,22.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,803",NAT,22.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,803",GRN,12.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,803",ONP,24.0,NA,NA,NA,NA
+2026,9-14 Mar,9/3/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,803",OTH,13.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",ALP,30.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",LIB,19.0,NA,NA,NA,NA
 2026,3-10 Mar,3/3/2026,YouGov,Sky News Australia,Online,"1,500",NAT,19.0,NA,NA,NA,NA
@@ -753,13 +771,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,ONP,21.5,NA,NA,NA,NA
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,OTH,10.5,NA,NA,NA,NA
 2026,13-16 Feb,13/2/2026,Roy Morgan,NA,Online,526,NA,NA,ALP,55.0,L/NP,45.0
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ALP,32.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",LIB,23.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NAT,23.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",GRN,11.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ONP,23.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",OTH,12.0,NA,NA,NA,NA
-2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NA,NA,ALP,55.0,L/NP,45.0
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",ALP,32.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",LIB,23.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",NAT,23.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",GRN,11.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",ONP,23.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",OTH,12.0,NA,NA,NA,NA
+2026,8-14 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",NA,NA,ALP,55.0,L/NP,45.0
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",ALP,30.5,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",LIB,20.0,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",NAT,20.0,NA,NA,NA,NA
@@ -767,13 +785,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",ONP,25.0,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",OTH,11.5,NA,NA,NA,NA
 2026,9-13 Feb,9/2/2026,Roy Morgan,NA,Online,"1,216",NA,NA,ALP,58.5,L/NP,41.5
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ALP,31.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",LIB,20.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NAT,20.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",GRN,12.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",ONP,25.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",OTH,13.0,NA,NA,NA,NA
-2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,717",NA,NA,ALP,55.0,L/NP,45.0
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",ALP,31.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",LIB,20.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",NAT,20.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",GRN,12.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",ONP,25.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",OTH,13.0,NA,NA,NA,NA
+2026,8-12 Feb,8/2/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,717",NA,NA,ALP,55.0,L/NP,45.0
 2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",ALP,34.0,NA,NA,NA,NA
 2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",LIB,17.0,NA,NA,NA,NA
 2026,6-12 Feb,6/2/2026,RedBridge/Accent,The Australia Institute,Online,"2,010",NAT,17.0,NA,NA,NA,NA
@@ -857,13 +875,13 @@ Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_pro
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",ONP,21.0,NA,NA,NA,NA
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",OTH,13.0,NA,NA,NA,NA
 2026,12-18 Jan,12/1/2026,Roy Morgan,NA,Online,"1,630",NA,NA,ALP,53.5,L/NP,46.5
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ALP,30.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",LIB,28.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NAT,28.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",GRN,10.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",ONP,18.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",OTH,14.0,NA,NA,NA,NA
-2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& Online,"1,800",NA,NA,ALP,52.0,L/NP,48.0
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",ALP,30.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",LIB,28.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",NAT,28.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",GRN,10.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",ONP,18.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",OTH,14.0,NA,NA,NA,NA
+2026,12-16 Jan,12/1/2026,Resolve,Sydney Morning Herald/The Age,Telephone& online,"1,800",NA,NA,ALP,52.0,L/NP,48.0
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",ALP,32.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",LIB,21.0,NA,NA,NA,NA
 2026,12-16 Jan,12/1/2026,Newspoll,The Australian,Online,"1,224",NAT,21.0,NA,NA,NA,NA

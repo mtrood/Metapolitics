@@ -1,28 +1,35 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
-2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",OTH,11.0,NA,NA,NA,NA
-2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",ALP,24.0,NA,NA,NA,NA
-2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",L/NP,29.0,NA,NA,NA,NA
-2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",GRN,14.0,NA,NA,NA,NA
-2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",ONP,22.0,NA,NA,NA,NA
-2026,24-28 Sep,24/9/2026,Freshwater,Herald Sun,,"1,030",NA,NA,ALP,47.0,L/NP,53.0
-2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",OTH,11.0,NA,NA,NA,NA
-2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",ALP,25.0,NA,NA,NA,NA
-2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",L/NP,30.0,NA,NA,NA,NA
-2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",GRN,14.0,NA,NA,NA,NA
-2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",ONP,20.0,NA,NA,NA,NA
-2026,10-20 Sep,10/9/2026,DemosAU/Premier National,NA,,"1,020",NA,NA,ALP,48.0,L/NP,52.0
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",OTH,7.0,NA,NA,NA,NA
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",ALP,24.0,NA,NA,NA,NA
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",L/NP,29.0,NA,NA,NA,NA
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",GRN,15.0,NA,NA,NA,NA
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",ONP,25.0,NA,NA,NA,NA
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",NA,NA,ALP,44.0,L/NP,56.0
-2026,1-14 Sep,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",NA,NA,ALP,53.0,ONP,47.0
-2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",OTH,13.0,NA,NA,NA,NA
-2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",ALP,25.0,NA,NA,NA,NA
-2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",L/NP,28.0,NA,NA,NA,NA
-2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
-2026,13 Sep,13/9/2026,Resolve,The Age,,"1,000",ONP,23.0,NA,NA,NA,NA
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",OTH,6.0,NA,NA,NA,NA
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",ALP,24.0,NA,NA,NA,NA
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",L/NP,30.0,NA,NA,NA,NA
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",GRN,16.0,NA,NA,NA,NA
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",ONP,24.0,NA,NA,NA,NA
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",NA,NA,ALP,44.0,L/NP,56.0
+2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",NA,NA,ALP,55.0,ONP,45.0
+2026,24-28 Sept,24/9/2026,Freshwater,Herald Sun,,"1,030",OTH,11.0,NA,NA,NA,NA
+2026,24-28 Sept,24/9/2026,Freshwater,Herald Sun,,"1,030",ALP,24.0,NA,NA,NA,NA
+2026,24-28 Sept,24/9/2026,Freshwater,Herald Sun,,"1,030",L/NP,29.0,NA,NA,NA,NA
+2026,24-28 Sept,24/9/2026,Freshwater,Herald Sun,,"1,030",GRN,14.0,NA,NA,NA,NA
+2026,24-28 Sept,24/9/2026,Freshwater,Herald Sun,,"1,030",ONP,22.0,NA,NA,NA,NA
+2026,24-28 Sept,24/9/2026,Freshwater,Herald Sun,,"1,030",NA,NA,ALP,47.0,L/NP,53.0
+2026,10-20 Sept,10/9/2026,DemosAU/Premier National,NA,,"1,020",OTH,11.0,NA,NA,NA,NA
+2026,10-20 Sept,10/9/2026,DemosAU/Premier National,NA,,"1,020",ALP,25.0,NA,NA,NA,NA
+2026,10-20 Sept,10/9/2026,DemosAU/Premier National,NA,,"1,020",L/NP,30.0,NA,NA,NA,NA
+2026,10-20 Sept,10/9/2026,DemosAU/Premier National,NA,,"1,020",GRN,14.0,NA,NA,NA,NA
+2026,10-20 Sept,10/9/2026,DemosAU/Premier National,NA,,"1,020",ONP,20.0,NA,NA,NA,NA
+2026,10-20 Sept,10/9/2026,DemosAU/Premier National,NA,,"1,020",NA,NA,ALP,48.0,L/NP,52.0
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",OTH,7.0,NA,NA,NA,NA
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",ALP,24.0,NA,NA,NA,NA
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",L/NP,29.0,NA,NA,NA,NA
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",GRN,15.0,NA,NA,NA,NA
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",ONP,25.0,NA,NA,NA,NA
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",NA,NA,ALP,44.0,L/NP,56.0
+2026,1-14 Sept,1/9/2026,RedBridge/Accent,Australian Financial Review,,"2,371",NA,NA,ALP,53.0,ONP,47.0
+2026,13 Sept,13/9/2026,Resolve,The Age,,"1,000",OTH,13.0,NA,NA,NA,NA
+2026,13 Sept,13/9/2026,Resolve,The Age,,"1,000",ALP,25.0,NA,NA,NA,NA
+2026,13 Sept,13/9/2026,Resolve,The Age,,"1,000",L/NP,28.0,NA,NA,NA,NA
+2026,13 Sept,13/9/2026,Resolve,The Age,,"1,000",GRN,12.0,NA,NA,NA,NA
+2026,13 Sept,13/9/2026,Resolve,The Age,,"1,000",ONP,23.0,NA,NA,NA,NA
 2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",OTH,13.0,NA,NA,NA,NA
 2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",ALP,25.0,NA,NA,NA,NA
 2026,16 Aug,16/8/2026,Resolve,The Age,,"1,000",L/NP,27.0,NA,NA,NA,NA
