@@ -1,4 +1,9 @@
 Year,Date,Date_lb,Polling firm,Client,Interview mode,Sample size,pv_party,pv_prop,2pp_party_1,2pp_party_1_prop,2pp_party_2,2pp_party_2_prop
+2026,6-10 Oct,6/10/2026,Resolve,The Age,,"1,000",OTH,9.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,The Age,,"1,000",ALP,25.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,The Age,,"1,000",L/NP,28.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,The Age,,"1,000",GRN,15.0,NA,NA,NA,NA
+2026,6-10 Oct,6/10/2026,Resolve,The Age,,"1,000",ONP,23.0,NA,NA,NA,NA
 2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",OTH,6.0,NA,NA,NA,NA
 2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",ALP,24.0,NA,NA,NA,NA
 2026,2-8 Oct,2/10/2026,RedBridge/Accent,Australian Financial Review,,"1,008",L/NP,30.0,NA,NA,NA,NA
