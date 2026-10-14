@@ -53,7 +53,7 @@ jobs:
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
       - name: Run Vic R analysis
-        run: Rscript "scripts/pooled_Vic.R"
+        run: Rscript "scripts/pooled Vic.R"
       - name: Back up figures
         run: cp -r output/figures /tmp/figures
       # --------------------
