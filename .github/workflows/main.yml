@@ -52,7 +52,9 @@ jobs:
           mkdir -p output/figures
       - name: Run R analysis
         run: Rscript "scripts/pooled pv.R"
-      - name: Back up figure
+      - name: Run Vic R analysis
+        run: Rscript "scripts/pooled_Vic.R"
+      - name: Back up figures
         run: cp -r output/figures /tmp/figures
       # --------------------
       # Save outputs
